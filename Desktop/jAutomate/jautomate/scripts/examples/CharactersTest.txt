@@ -1,0 +1,10 @@
+Display "images/examples/calc147.png" "images/examples/calc509.png" "images/examples/calc26.png"
+Characters 1234567890, "images/examples/n1.png" "images/examples/n2.png" "images/examples/n3.png" "images/examples/n4.png" "images/examples/n5.png" "images/examples/n6.png" "images/examples/n7.png" "images/examples/n8.png" "images/examples/n9.png" "images/examples/n0.png" "images/examples/comma.png"
+Read "{ImageFolder}/examples/1453718711024.png" 64 21 54 29
+Verify "{ReadText}=147"
+VerifyNot 146
+Click 147
+VerifyNot 608
+Click 509
+VerifyNot 2,0
+Click 2,6

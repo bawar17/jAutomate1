@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: .
+Created-By: Michel Nass, Innovative Tool Solutions
+Main-Class: setupjautomate.SetupJAutomate
+

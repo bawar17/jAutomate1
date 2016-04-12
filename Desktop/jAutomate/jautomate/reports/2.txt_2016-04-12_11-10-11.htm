@@ -1,0 +1,114 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Test Run for 2.txt</title>
+<script type="text/javascript">
+function toLocalDate(date)
+{
+	if(date.length==10)
+		return date.substr(8,2)+"/"+date.substr(5,2)+"/"+date.substr(0,4);
+	else
+		return "";
+}
+
+function toLocalTime(time)
+{
+	return time;
+}
+</script>
+<style type="text/css">
+h2
+{
+    color: black;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 14pt;
+    font-weight: bold;
+    margin: 4px 0px 8px 0px;
+}
+h3
+{
+    color: black;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 12pt;
+    font-weight: normal;
+    margin: 4px 0px 8px 0px;
+}
+a
+{
+    color: black;
+}
+img
+{
+	vertical-align: middle;
+	margin: 0px 5px 0px 5px;
+    -webkit-border-radius: 5px;
+	box-shadow: 1px 1px 3px #1F1F1F;
+}
+pre
+{
+    color: black;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 12pt;
+    margin: 0px;
+}
+table
+{
+    color: black;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #1F1F1F;
+	border-collapse: collapse;
+	background-color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+	font-size: 12pt;
+	margin: 0px;
+}
+th
+{
+	padding: 10px;
+	border-width: 1px 0px;
+	border-style: solid;
+	border-color: #1F1F1F;
+	text-align: left;
+	font-weight: bold;
+	background-color: #69C1F1;
+}
+td
+{
+	padding: 10px;
+}
+td.red
+{
+	background-color: #FF5045;
+}
+td.yellow
+{
+	background-color: #ffff55;
+}
+td.green
+{
+	background-color: #79FF79;
+}
+div.titlebar
+{
+	padding: 5px;
+}
+.full-width
+{
+	width: 100%;
+	background-color: #69C1F1;
+}
+</style>
+</head>
+<body>
+	<div class="full-width"><div class="titlebar"><h2>Test Run for 2.txt</h2></div></div><br>
+	<h3><script type="text/javascript">document.write(toLocalDate("2016-04-12"));</script> <script type="text/javascript">document.write(toLocalTime("11:10:11"));</script><h3>
+        <table>
+            <tr>
+                <th>Command</th>
+                <th>Run Status</th>
+            </tr>
+			<tr><td class="green"><b>Click</b> <img src="images/146045221192314604517997860.png"/> 48 48</td><td class="green">Passed<br><a href="images/screenshot_2016-04-12_11-09-27.png"/>Screenshot</a></td></tr><tr><td class="green"><b>Click</b> <img src="images/146045221196214604518784520.png"/></td><td class="green">Passed<br><a href="images/screenshot_2016-04-12_11-09-30.png"/>Screenshot</a></td></tr><tr><td class="green"><b>Wait</b> 2000</td><td class="green">Passed</td></tr><tr><td class="green"><b>Write</b> pricerunner.se[ENTER]</td><td class="green">Passed</td></tr><tr><td class="green"><b>Click</b> <img src="images/146045221199614604517998572.png"/></td><td class="green">Passed<br><a href="images/screenshot_2016-04-12_11-09-35.png"/>Screenshot</a></td></tr><tr><td class="green"><b>Write</b> "stan smith[ENTER]"</td><td class="green">Passed</td></tr><tr><td class="green"><b>Wait</b> 2000</td><td class="green">Passed</td></tr><tr><td class="green"><b>Click</b> <img src="images/146045221206814604517998943.png"/> 50 48</td><td class="green">Passed<br><a href="images/screenshot_2016-04-12_11-09-40.png"/>Screenshot</a></td></tr><tr><td class="green"><b>Wait</b> 2000</td><td class="green">Passed</td></tr><tr><td class="green"><b>MouseScroll</b> 2</td><td class="green">Passed</td></tr><tr><td class="green"><b>Click</b> <img src="images/146045221210214604517999114.png"/></td><td class="green">Passed<br><a href="images/screenshot_2016-04-12_11-09-45.png"/>Screenshot</a></td></tr><tr><td class="green"><b>Wait</b> 2000</td><td class="green">Passed</td></tr><tr><td class="green"><b>Click</b> <img src="images/146045221215314604517999275.png"/></td><td class="green">Passed<br><a href="images/screenshot_2016-04-12_11-10-06.png"/>Screenshot</a></td></tr><tr><td class="green"><b>Wait</b> 2000</td><td class="green">Passed</td></tr><tr><td class="red"><b>WaitMouseMove</b> <img src="images/146045221219114604517999626.png"/></td><td class="red">Failed<br><a href="images/screenshot_2016-04-12_11-10-11.png"/>Screenshot</a></td></tr>
+        </table>
+</body>
+</html>

@@ -1,0 +1,4 @@
+ManualTest "Enter a text to search for in the Result field, then press Pass"
+StartWeb www.google.com
+Wait 5000
+Write "{ManualTestResult}"[ENTER]

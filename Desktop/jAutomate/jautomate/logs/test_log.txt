@@ -1,0 +1,235 @@
+2016-03-22 09:58:20  Script started
+2016-03-22 09:58:21  Script stopped
+2016-03-22 09:58:30  Script started
+2016-03-22 09:59:56  Script failed
+2016-03-22 10:00:05  Script started
+2016-03-22 10:00:40  Script failed
+2016-03-22 10:01:14  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" started
+2016-03-22 10:01:42  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" failed
+2016-03-22 10:03:39  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" started
+2016-03-22 10:03:58  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" failed
+2016-03-22 10:05:18  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" started
+2016-03-22 10:05:28  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" failed
+2016-03-22 10:05:33  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" started
+2016-03-22 10:06:06  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" failed
+2016-03-22 10:23:29  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" started
+2016-03-22 10:23:55  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" failed
+2016-03-22 10:24:45  Script started
+2016-03-22 10:24:50  Script failed
+2016-03-22 10:25:05  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\examples\test.txt" started
+2016-03-22 10:25:08  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\examples\test.txt" failed
+2016-03-22 10:25:15  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\examples\test.txt" started
+2016-03-22 10:25:29  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\examples\test.txt" completed
+2016-03-22 10:25:47  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\examples\test.txt" started
+2016-03-22 10:25:58  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\examples\test.txt" failed
+2016-03-22 10:26:03  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\examples\test.txt" started
+2016-03-22 10:26:13  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\examples\test.txt" completed
+2016-03-22 10:28:12  Script started
+2016-03-22 10:28:13  Script failed
+2016-03-22 10:35:31  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" started
+2016-03-22 10:38:45  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" failed
+2016-03-22 10:39:40  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" started
+2016-03-22 10:39:51  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" failed
+2016-03-22 10:40:12  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" started
+2016-03-22 10:40:32  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" completed
+2016-03-22 10:42:16  Script started
+2016-03-22 10:42:28  Script failed
+2016-03-22 10:42:37  Script started
+2016-03-22 10:43:33  Script failed
+2016-03-22 10:44:38  Script started
+2016-03-22 10:44:43  Script failed
+2016-03-22 10:44:48  Script started
+2016-03-22 10:55:19  Script failed
+2016-04-12 10:36:35  Script started
+2016-04-12 10:37:09  Script failed
+2016-04-12 10:41:34  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 10:43:01  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 10:43:16  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 10:45:16  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 10:46:02  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 10:46:30  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 10:46:48  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 10:48:04  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 10:48:47  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 10:49:38  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 10:51:15  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 10:52:18  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 10:53:54  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 10:54:02  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 10:54:09  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 10:55:01  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 10:55:17  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 10:56:06  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 10:57:31  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 10:57:58  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 10:58:58  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 11:00:14  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 11:01:06  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 11:02:01  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 11:04:04  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:04:19  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" stopped
+2016-04-12 11:05:11  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:05:24  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 11:05:29  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:05:51  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 11:06:34  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:07:22  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 11:07:34  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:08:24  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 11:09:15  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:09:15  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" stopped
+2016-04-12 11:09:26  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:10:11  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 11:11:25  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:12:01  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 11:13:27  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:14:04  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 11:14:43  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:14:50  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 11:16:15  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:17:12  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 11:19:01  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:19:39  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 12:26:57  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 12:27:11  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 12:27:22  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 12:28:00  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 12:35:16  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 12:35:36  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 12:35:50  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 12:36:29  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 12:41:21  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 12:41:58  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 12:55:09  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 12:55:22  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 12:55:26  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 12:56:04  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 13:41:49  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 13:41:49  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 13:41:58  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 13:41:59  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" failed
+2016-04-12 13:42:05  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 13:42:05  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 13:42:24  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 13:42:25  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" failed
+2016-04-12 13:43:54  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 13:43:54  Script failed
+2016-04-12 13:43:54  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" failed
+2016-04-12 13:44:34  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 13:44:34  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 13:44:52  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 13:44:53  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" failed
+2016-04-12 13:50:42  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 13:50:42  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 13:50:49  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" stopped
+2016-04-12 13:50:50  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" failed
+2016-04-12 13:56:32  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 13:56:32  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 13:57:02  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 13:57:02  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" failed
+2016-04-12 13:57:28  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 13:57:28  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 13:58:09  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 13:58:10  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" failed
+2016-04-12 13:59:46  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 13:59:46  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:00:02  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:00:02  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:00:19  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 14:00:19  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" completed
+2016-04-12 14:02:12  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:02:12  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:02:27  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:02:27  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:03:04  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 14:03:04  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" failed
+2016-04-12 14:05:51  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:05:51  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:06:05  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:06:06  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:06:22  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 14:06:23  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" completed
+2016-04-12 14:13:58  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:13:58  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:14:13  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:14:13  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:14:34  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 14:14:35  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" stopped
+2016-04-12 14:15:28  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:15:28  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:15:42  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:15:42  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:16:11  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 14:16:11  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" stopped
+2016-04-12 14:17:08  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:17:08  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:17:23  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:17:23  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:17:27  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" stopped
+2016-04-12 14:17:27  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" stopped
+2016-04-12 14:19:23  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:19:27  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:19:41  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:20:13  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 14:20:41  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:20:41  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:20:46  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:20:46  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:21:16  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 14:21:16  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" completed
+2016-04-12 14:30:53  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:30:53  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:31:08  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 14:31:09  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" stopped
+2016-04-12 14:31:16  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:31:16  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:31:31  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 14:31:31  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" stopped
+2016-04-12 14:32:00  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:32:00  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:32:20  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 14:32:20  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" stopped
+2016-04-12 14:32:35  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:32:35  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:32:49  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 14:32:50  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" failed
+2016-04-12 14:33:13  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:33:13  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:33:20  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:33:20  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:33:20  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:33:20  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:34:05  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 14:34:06  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" failed
+2016-04-12 14:35:22  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:35:22  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:35:22  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:35:22  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:35:31  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 14:35:31  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" stopped
+2016-04-12 14:40:44  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:40:44  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:40:44  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:40:44  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:41:45  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 14:41:45  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" completed
+2016-04-12 14:42:00  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:42:08  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 14:42:19  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:42:20  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:42:20  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:42:20  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:42:53  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 14:42:53  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" completed
+2016-04-12 14:51:02  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:51:02  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:51:02  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:51:02  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:51:35  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 14:51:35  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" completed
+2016-04-12 14:57:36  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:57:36  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:57:36  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:57:36  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:58:10  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 14:58:11  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" completed

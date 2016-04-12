@@ -1,0 +1,32 @@
+Begin "Display the demo application"
+AnimateCursor Yes
+Display images/examples/1.png images/examples/2.png images/examples/3.png images/examples/4.png images/examples/5.png images/examples/6.png
+End
+Begin "Click 4"
+WaitMouseMove "images/examples/1339591236943.png"
+MouseLeftClick
+End
+Begin "Click +"
+WaitMouseMove "images/examples/1339591239425.png"
+MouseLeftClick
+End
+Begin "Click 6"
+WaitMouseMove "images/examples/1339591241700.png"
+MouseLeftClick
+End
+Begin "Click ="
+WaitMouseMove "images/examples/1339591245097.png"
+MouseLeftClick
+End
+Begin "Verify the result"
+WaitVerify "images/examples/1339591249497.png"
+End
+Begin "Clear result"
+WaitMouseMove "images/examples/1339591254064.png"
+MouseLeftClick
+End
+Begin "Close the demo application"
+Wait 2000
+WaitMouseMove "images/examples/1339593249568.png"
+MouseLeftClick
+End

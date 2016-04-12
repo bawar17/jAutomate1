@@ -1,0 +1,12 @@
+Begin "AiTest"
+	Display "images/examples/calc1.png" "images/examples/calc2.png"
+	Click images/examples/ai1.png 51 51
+	WaitVerify "images/examples/aiverify1.png" 184 94 34 13
+	If images/examples/aiverify1.png 184 94 34 13
+		Region "images/examples/airegion.png" 183 92 75 17
+		VerifyNot "images/examples/aibtu.png"
+		Verify "images/examples/ai10000.png"
+		Region
+		Click images/examples/ai1.png 50 51
+	EndIf
+End

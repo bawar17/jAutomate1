@@ -1,0 +1,27 @@
+Display "images/examples/grid2ab.png" "images/examples/grid2cd.png"
+Wait 1000
+VerifyNot "images/examples/Previous.png"
+Call "scripts/examples/NextTest.txt"
+Click "images/examples/Previous.png"
+Display "images/examples/grid2ab.png" "images/examples/grid2cd.png"
+Wait 1000
+If "images/examples/Next.png"
+	Call "scripts/examples/NextTest.txt"
+EndIf
+Click "images/examples/Previous.png"
+Display "images/examples/grid2ab.png" "images/examples/grid2cd.png"
+Wait 1000
+IfNot "images/examples/Previous.png"
+	Call "scripts/examples/NextTest.txt"
+EndIf
+Click "images/examples/Previous.png"
+Display "images/examples/grid2ab.png" "images/examples/grid2ab.png" "images/examples/grid2cd.png"
+While "images/examples/Next.png"
+	Call "scripts/examples/NextTest.txt"
+EndWhile
+Click "images/examples/Previous.png"
+Display "images/examples/grid2ab.png" "images/examples/grid2ab.png" "images/examples/grid2cd.png"
+WhileNot "images/examples/Previous.png"
+	Call "scripts/examples/NextTest.txt"
+EndWhile
+Click "images/examples/Previous.png"

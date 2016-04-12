@@ -1,0 +1,7 @@
+Display "images/examples/options0.png" "images/examples/options1.png" "images/examples/options2.png" "images/examples/options3.png"
+Click "images/examples/first_option.png" 8 50
+Repeat 2
+	Click "images/examples/checkbox.png"
+EndRepeat
+WaitVerify "images/examples/all_checked.png"
+MouseLeftClick

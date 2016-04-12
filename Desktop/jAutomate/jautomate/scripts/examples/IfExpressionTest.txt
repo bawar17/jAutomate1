@@ -1,0 +1,8 @@
+Set "Name" "Eric"
+If "{Name}=Eric"
+	Set "Name" "Erica"
+EndIf
+IfNot "{Name}=Erica"
+	Set "Name" "Incorrect"
+EndIf
+Verify "{Name}!=Incorrect"

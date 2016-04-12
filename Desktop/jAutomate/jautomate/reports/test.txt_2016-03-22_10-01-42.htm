@@ -1,0 +1,114 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Test Run for test.txt</title>
+<script type="text/javascript">
+function toLocalDate(date)
+{
+	if(date.length==10)
+		return date.substr(8,2)+"/"+date.substr(5,2)+"/"+date.substr(0,4);
+	else
+		return "";
+}
+
+function toLocalTime(time)
+{
+	return time;
+}
+</script>
+<style type="text/css">
+h2
+{
+    color: black;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 14pt;
+    font-weight: bold;
+    margin: 4px 0px 8px 0px;
+}
+h3
+{
+    color: black;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 12pt;
+    font-weight: normal;
+    margin: 4px 0px 8px 0px;
+}
+a
+{
+    color: black;
+}
+img
+{
+	vertical-align: middle;
+	margin: 0px 5px 0px 5px;
+    -webkit-border-radius: 5px;
+	box-shadow: 1px 1px 3px #1F1F1F;
+}
+pre
+{
+    color: black;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 12pt;
+    margin: 0px;
+}
+table
+{
+    color: black;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #1F1F1F;
+	border-collapse: collapse;
+	background-color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+	font-size: 12pt;
+	margin: 0px;
+}
+th
+{
+	padding: 10px;
+	border-width: 1px 0px;
+	border-style: solid;
+	border-color: #1F1F1F;
+	text-align: left;
+	font-weight: bold;
+	background-color: #69C1F1;
+}
+td
+{
+	padding: 10px;
+}
+td.red
+{
+	background-color: #FF5045;
+}
+td.yellow
+{
+	background-color: #ffff55;
+}
+td.green
+{
+	background-color: #79FF79;
+}
+div.titlebar
+{
+	padding: 5px;
+}
+.full-width
+{
+	width: 100%;
+	background-color: #69C1F1;
+}
+</style>
+</head>
+<body>
+	<div class="full-width"><div class="titlebar"><h2>Test Run for test.txt</h2></div></div><br>
+	<h3><script type="text/javascript">document.write(toLocalDate("2016-03-22"));</script> <script type="text/javascript">document.write(toLocalTime("10:01:42"));</script><h3>
+        <table>
+            <tr>
+                <th>Command</th>
+                <th>Run Status</th>
+            </tr>
+			<tr><td class="green"><b>Click</b> <img src="images/145863730227514586366097120.png"/></td><td class="green">Passed<br><a href="images/screenshot_2016-03-22_10-01-15.png"/>Screenshot</a></td></tr><tr><td class="green"><b>DragStart</b> <img src="images/145863730232014586366097601.png"/></td><td class="green">Passed</td></tr><tr><td class="green"><b>DragDrop</b> <img src="images/145863730238914586366097922.png"/></td><td class="green">Passed</td></tr><tr><td class="green"><b>Write</b> wik[DOWN][DOWN][ENTER]</td><td class="green">Passed</td></tr><tr><td class="red"><b>Click</b> <img src="images/145863730244314586366098603.png"/></td><td class="red">Failed<br><a href="images/screenshot_2016-03-22_10-01-41.png"/>Screenshot</a></td></tr>
+        </table>
+</body>
+</html>

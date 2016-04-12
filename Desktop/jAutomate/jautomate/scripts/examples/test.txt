@@ -1,0 +1,5 @@
+Click "{ImageFolder}/14586386764120.png"
+Write "gf[BACKSPACE]oog[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]youtube.com[ENTER]"
+Click "{ImageFolder}/14586386764481.png"
+Wait
+Write "VOLVO[ENTER]"

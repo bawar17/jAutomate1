@@ -1,0 +1,324 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Dashboard</title>
+<script type="text/javascript">
+function toLocalDate(date)
+{
+	if(date.length==10)
+		return date.substr(8,2)+"/"+date.substr(5,2)+"/"+date.substr(0,4);
+	else
+		return "";
+}
+
+function toLocalTime(time)
+{
+	return time;
+}
+</script>
+<style type="text/css">
+h2
+{
+    color: black;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 14pt;
+    font-weight: bold;
+    margin: 4px 0px 8px 0px;
+}
+h3
+{
+    color: black;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 12pt;
+    font-weight: bold;
+    margin: 4px 0px 8px 0px;
+}
+a
+{
+    color: black;
+	text-decoration: none;
+}
+pre
+{
+    color: black;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 12pt;
+    margin: 0px;
+}
+table
+{
+    color: black;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #1F1F1F;
+	border-collapse: collapse;
+	background-color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+	font-size: 12pt;
+	margin: 0px;
+}
+th
+{
+	padding: 10px;
+	border-width: 1px 0px;
+	border-style: solid;
+	border-color: #1F1F1F;
+	text-align: left;
+	font-weight: bold;
+	background-color: #69C1F1;
+}
+td
+{
+	padding: 10px;
+}
+td.red
+{
+	background-color: #FF5045;
+}
+td.yellow
+{
+	background-color: #ffff55;
+}
+td.green
+{
+	background-color: #79FF79;
+}
+div.titlebar
+{
+	padding: 5px;
+}
+img
+{
+	vertical-align: middle;
+	margin: 0px 5px 0px 5px;
+    -webkit-border-radius: 5px;
+	box-shadow: 1px 1px 3px #1F1F1F;
+}
+img.titlebar
+{
+    -webkit-border-radius: 0;
+	box-shadow: none;
+	float: left;
+}
+div.large
+{
+    font-size: 56pt;
+    font-weight: bold;
+}
+.imgz1 { position:relative; top: 0px; left: 0px; z-index: 1; }
+.imgz3 { position:absolute; top: 0px; left: 0px; z-index: 3; }
+.button { font-weight: bold; color: white; background-color: #157EFB; padding: 5px 20px 5px 20px; }
+.button:hover { font-weight: bold; color: white; background-color: #1268CC; padding: 5px 20px 5px 20px; }
+.menubutton { font-weight: bold; color: white; background-color: #157EFB; padding: 6px 20px 6px 20px;; float: right; font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana"; font-size: 14pt; font-weight: bold; }
+.menubutton:hover { font-weight: bold; color: white; background-color: #1268CC; padding: 6px 20px 6px 20px;; float: right; font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana"; font-size: 14pt; font-weight: bold; }
+.full-width
+{
+	width: 100%;
+	background-color: #69C1F1;
+}
+.wrap
+{
+  width: 80%;
+  max-width: 24em;
+  margin: 0 auto;
+  padding: 0.25em 0.625em;
+}
+div.margin
+{
+	margin: 10px;
+}
+div.tests_box
+{
+	color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 14pt;
+	width: 200px;
+	height: 200px;
+	background-image: url("icons/tests_box.png");
+	float: left;
+	margin: 10px;
+}
+div.timer_box
+{
+	color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 14pt;
+	width: 200px;
+	height: 200px;
+	background-image: url("icons/timer_box.png");
+	float: left;
+	margin: 10px;
+}
+div.run_box
+{
+	color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 14pt;
+	width: 200px;
+	height: 200px;
+	background-image: url("icons/run_box.png");
+	float: left;
+	margin: 10px;
+}
+div.states_box
+{
+	color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 14pt;
+	width: 200px;
+	height: 200px;
+	background-image: url("icons/states_box.png");
+	float: left;
+	margin: 10px;
+}
+div.progress100_box
+{
+	color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 14pt;
+	width: 420px;
+	height: 200px;
+	background-image: url("icons/progress100_box.png");
+	float: left;
+	margin: 10px;
+}
+div.progress87_box
+{
+	color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 14pt;
+	width: 420px;
+	height: 200px;
+	background-image: url("icons/progress87_box.png");
+	float: left;
+	margin: 10px;
+}
+div.progress75_box
+{
+	color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 14pt;
+	width: 420px;
+	height: 200px;
+	background-image: url("icons/progress75_box.png");
+	float: left;
+	margin: 10px;
+}
+div.progress62_box
+{
+	color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 14pt;
+	width: 420px;
+	height: 200px;
+	background-image: url("icons/progress62_box.png");
+	float: left;
+	margin: 10px;
+}
+div.progress50_box
+{
+	color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 14pt;
+	width: 420px;
+	height: 200px;
+	background-image: url("icons/progress50_box.png");
+	float: left;
+	margin: 10px;
+}
+div.progress37_box
+{
+	color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 14pt;
+	width: 420px;
+	height: 200px;
+	background-image: url("icons/progress37_box.png");
+	float: left;
+	margin: 10px;
+}
+div.progress25_box
+{
+	color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 14pt;
+	width: 420px;
+	height: 200px;
+	background-image: url("icons/progress25_box.png");
+	float: left;
+	margin: 10px;
+}
+div.progress12_box
+{
+	color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 14pt;
+	width: 420px;
+	height: 200px;
+	background-image: url("icons/progress12_box.png");
+	float: left;
+	margin: 10px;
+}
+div.progress0_box
+{
+	color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 14pt;
+	width: 420px;
+	height: 200px;
+	background-image: url("icons/progress0_box.png");
+	float: left;
+	margin: 10px;
+}
+div.schedule_box
+{
+	color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 14pt;
+	width: 420px;
+	height: 200px;
+	background-image: url("icons/schedule_box.png");
+	float: left;
+	margin: 10px;
+}
+div.email_box
+{
+	color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 14pt;
+	width: 200px;
+	height: 200px;
+	background-image: url("icons/email_box.png");
+	float: left;
+	margin: 10px;
+}
+div.image_box
+{
+	color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 14pt;
+	width: 400px;
+	height: 200px;
+	float: left;
+	margin: 10px;
+}
+div.settings_box
+{
+	color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 14pt;
+	width: 200px;
+	height: 200px;
+	background-image: url("icons/settings_box.png");
+	float: left;
+	margin: 10px;
+}
+</style>
+</head>
+<body>
+	<div class="full-width"><div class="titlebar"><a href="dashboard"><div class="menubutton">Refresh</div></a><img class="titlebar" src="icons/gear32.png"/><h2>Dashboard</h2></div></div><br>
+	<div class="margin">
+		ID_REPORT_TABLE_ROWS
+	</div>
+</body>
+</html>

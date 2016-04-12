@@ -1,0 +1,6 @@
+Display "images/examples/options0.png"
+WaitMouseMove "images/examples/first_option.png"
+IndexPosition 2
+WaitMouseMove "images/examples/checkbox.png"
+Verify "images/examples/center_checkbox.png" "{CurrentX}" "{CurrentY}"
+MouseLeftClick

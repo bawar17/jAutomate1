@@ -1,0 +1,10 @@
+Verify 12>5.2
+Set name Eric
+Verify "{name}=Eric"
+Verify "!({name}!=Eric)"
+Set "data" "3"
+Verify "{data}<10"
+Verify "{data}<=10.5"
+Verify "10>{data}"
+Verify "3 <= {data} & {data} < 10"
+Verify "(Erica={name} | 2<=5) & 17.2>={data}"

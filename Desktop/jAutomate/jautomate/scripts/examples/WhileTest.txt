@@ -1,0 +1,16 @@
+Begin "Check all options using While"
+	Display "images/examples/options0.png" "images/examples/options1.png" "images/examples/options2.png" "images/examples/options3.png"
+	WaitMouseMove "images/examples/first_option.png" 8 50
+	While "images/examples/checkbox.png"
+		Click "images/examples/checkbox.png"
+	EndWhile
+	MouseLeftClick
+End
+Begin "Check all options using WhileNot"
+	Display "images/examples/options0.png" "images/examples/options1.png" "images/examples/options2.png" "images/examples/options3.png"
+	Click "images/examples/first_option.png" 8 50
+	WhileNot "images/examples/all_checked.png"
+		Click "images/examples/checkbox.png"
+	EndWhile
+	MouseLeftClick
+End

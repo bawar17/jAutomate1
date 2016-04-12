@@ -1,0 +1,1 @@
+java -Xmx512m -jar JAutomate.jar scripts\examples\CalculatorDemo.txt

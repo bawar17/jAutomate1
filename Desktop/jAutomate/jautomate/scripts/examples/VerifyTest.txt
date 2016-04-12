@@ -1,0 +1,8 @@
+Display "images/examples/grid2ab.png"
+WaitVerify "images/examples/A15.png"
+Verify "images/examples/A15.png"
+VerifyNot "images/examples/D15.png"
+Wait 1
+Wait "images/examples/A15.png"
+WaitNot "images/examples/D15.png"
+Click "images/examples/A15.png"

@@ -1,0 +1,114 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Test Run for jautomatetesttxt.txt</title>
+<script type="text/javascript">
+function toLocalDate(date)
+{
+	if(date.length==10)
+		return date.substr(8,2)+"/"+date.substr(5,2)+"/"+date.substr(0,4);
+	else
+		return "";
+}
+
+function toLocalTime(time)
+{
+	return time;
+}
+</script>
+<style type="text/css">
+h2
+{
+    color: black;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 14pt;
+    font-weight: bold;
+    margin: 4px 0px 8px 0px;
+}
+h3
+{
+    color: black;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 12pt;
+    font-weight: normal;
+    margin: 4px 0px 8px 0px;
+}
+a
+{
+    color: black;
+}
+img
+{
+	vertical-align: middle;
+	margin: 0px 5px 0px 5px;
+    -webkit-border-radius: 5px;
+	box-shadow: 1px 1px 3px #1F1F1F;
+}
+pre
+{
+    color: black;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 12pt;
+    margin: 0px;
+}
+table
+{
+    color: black;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #1F1F1F;
+	border-collapse: collapse;
+	background-color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+	font-size: 12pt;
+	margin: 0px;
+}
+th
+{
+	padding: 10px;
+	border-width: 1px 0px;
+	border-style: solid;
+	border-color: #1F1F1F;
+	text-align: left;
+	font-weight: bold;
+	background-color: #69C1F1;
+}
+td
+{
+	padding: 10px;
+}
+td.red
+{
+	background-color: #FF5045;
+}
+td.yellow
+{
+	background-color: #ffff55;
+}
+td.green
+{
+	background-color: #79FF79;
+}
+div.titlebar
+{
+	padding: 5px;
+}
+.full-width
+{
+	width: 100%;
+	background-color: #69C1F1;
+}
+</style>
+</head>
+<body>
+	<div class="full-width"><div class="titlebar"><h2>Test Run for jautomatetesttxt.txt</h2></div></div><br>
+	<h3><script type="text/javascript">document.write(toLocalDate("2016-04-12"));</script> <script type="text/javascript">document.write(toLocalTime("14:32:20"));</script><h3>
+        <table>
+            <tr>
+                <th>Command</th>
+                <th>Run Status</th>
+            </tr>
+			<tr><td class="green"><b>StartWeb</b> www.pricerunner.se</td><td class="green">Passed</td></tr><tr><td class="red"><b>WaitVerify</b> <img src="images/14604643401921460463555023.png"/></td><td class="red">Failed<br><a href="images/screenshot_2016-04-12_14-32-19.png"/>Screenshot</a></td></tr>
+        </table>
+</body>
+</html>

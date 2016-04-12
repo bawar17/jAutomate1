@@ -1,0 +1,7 @@
+Click "{ImageFolder}/14586374815930.png" 51 48
+DragStart "{ImageFolder}/14586374816301.png" 50 47
+DragDrop "{ImageFolder}/14586374816502.png" 48 46
+Write "wikipedia.org[ENTER]"
+Click "{ImageFolder}/14586374816763.png" 90 57
+Write "ac milan[ENTER]"
+Click "{ImageFolder}/14586374817194.png"

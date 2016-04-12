@@ -1,0 +1,1080 @@
+2016-03-22 09:58:20  Script started
+2016-03-22 09:58:20  Click "{ImageFolder}/14586366097120.png"
+2016-03-22 09:58:21  Script stopped
+2016-03-22 09:58:30  Script started
+2016-03-22 09:58:30  Click "{ImageFolder}/14586366097120.png"
+2016-03-22 09:58:31  DragStart "{ImageFolder}/14586366097601.png"
+2016-03-22 09:59:02  DragStart failed, image not found in line: 2
+2016-03-22 09:59:55  Manual test "<b>Start drag</b> <br/><img src="manual_test_dialog.png"/>" failed in line: 2
+2016-03-22 09:59:56  Script failed
+2016-03-22 10:00:05  Script started
+2016-03-22 10:00:05  Click "{ImageFolder}/14586366097120.png"
+2016-03-22 10:00:06  DragStart "{ImageFolder}/14586366097601.png"
+2016-03-22 10:00:28  DragDrop "{ImageFolder}/14586366097922.png"
+2016-03-22 10:00:29  Write "wik[DOWN][DOWN][ENTER]"
+2016-03-22 10:00:30  Click "{ImageFolder}/14586366098603.png"
+2016-03-22 10:00:40  Click failed, image not found in line: 5
+2016-03-22 10:00:40  Script failed
+2016-03-22 10:01:14  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" started
+2016-03-22 10:01:14  Click "{ImageFolder}/14586366097120.png"
+2016-03-22 10:01:15  DragStart "{ImageFolder}/14586366097601.png"
+2016-03-22 10:01:16  DragDrop "{ImageFolder}/14586366097922.png"
+2016-03-22 10:01:40  Write "wik[DOWN][DOWN][ENTER]"
+2016-03-22 10:01:41  Click "{ImageFolder}/14586366098603.png"
+2016-03-22 10:01:41  Click failed, image not found in line: 5
+2016-03-22 10:01:42  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" failed
+2016-03-22 10:03:39  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" started
+2016-03-22 10:03:39  Click "{ImageFolder}/14586373711800.png" 50 54
+2016-03-22 10:03:40  Click "{ImageFolder}/14586373712161.png" 49 55
+2016-03-22 10:03:43  Write "w"
+2016-03-22 10:03:43  MouseLeftClick
+2016-03-22 10:03:43  MouseLeftClick
+2016-03-22 10:03:43  DragStart "{ImageFolder}/14586373712802.png"
+2016-03-22 10:03:58  DragStart failed, image not found in line: 6
+2016-03-22 10:03:58  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" failed
+2016-03-22 10:05:18  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" started
+2016-03-22 10:05:18  Click "{ImageFolder}/14586374815930.png" 51 48
+2016-03-22 10:05:20  DragStart "{ImageFolder}/14586374816301.png" 50 47
+2016-03-22 10:05:27  DragStart failed, image not found in line: 2
+2016-03-22 10:05:28  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" failed
+2016-03-22 10:05:33  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" started
+2016-03-22 10:05:33  Click "{ImageFolder}/14586374815930.png" 51 48
+2016-03-22 10:05:33  DragStart "{ImageFolder}/14586374816301.png" 50 47
+2016-03-22 10:05:36  DragDrop "{ImageFolder}/14586374816502.png" 48 46
+2016-03-22 10:05:37  Write "wikipedia.org[ENTER]"
+2016-03-22 10:05:38  Click "{ImageFolder}/14586374816763.png" 53 56
+2016-03-22 10:06:05  Click failed, image not found in line: 5
+2016-03-22 10:06:06  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" failed
+2016-03-22 10:23:29  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" started
+2016-03-22 10:23:29  Click "{ImageFolder}/14586374815930.png" 51 48
+2016-03-22 10:23:30  DragStart "{ImageFolder}/14586374816301.png" 50 47
+2016-03-22 10:23:32  DragDrop "{ImageFolder}/14586374816502.png" 48 46
+2016-03-22 10:23:33  Write "wikipedia.org[ENTER]"
+2016-03-22 10:23:34  Click "{ImageFolder}/14586374816763.png" 53 56
+2016-03-22 10:23:54  Click failed, image not found in line: 5
+2016-03-22 10:23:55  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" failed
+2016-03-22 10:24:45  Script started
+2016-03-22 10:24:45  Click "{ImageFolder}/14586386764120.png"
+2016-03-22 10:24:50  Click failed, image not found in line: 1
+2016-03-22 10:24:50  Script failed
+2016-03-22 10:25:05  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\examples\test.txt" started
+2016-03-22 10:25:05  Click "{ImageFolder}/14586386764120.png"
+2016-03-22 10:25:07  Click failed, image not found in line: 1
+2016-03-22 10:25:08  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\examples\test.txt" failed
+2016-03-22 10:25:15  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\examples\test.txt" started
+2016-03-22 10:25:15  Click "{ImageFolder}/14586386764120.png"
+2016-03-22 10:25:20  Manual test "<b>Click</b> <br/><img src="manual_test_dialog.png"/>" passed
+2016-03-22 10:25:20  Write "gf[BACKSPACE]oog[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]youtube.com[ENTER]"
+2016-03-22 10:25:23  Manual test "<b>Write</b> gf[BACKSPACE]oog[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]youtube.com[ENTER]" passed
+2016-03-22 10:25:23  Click "{ImageFolder}/14586386764481.png"
+2016-03-22 10:25:25  Manual test "<b>Click</b> <br/><img src="manual_test_dialog.png"/>" passed
+2016-03-22 10:25:25  Wait
+2016-03-22 10:25:27  Manual test "<b>Wait for</b>" passed
+2016-03-22 10:25:27  Write "jautomate[ENTER]"
+2016-03-22 10:25:29  Manual test "<b>Write</b> jautomate[ENTER]" passed
+2016-03-22 10:25:29  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\examples\test.txt" completed
+2016-03-22 10:25:47  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\examples\test.txt" started
+2016-03-22 10:25:47  Click "{ImageFolder}/14586386764120.png"
+2016-03-22 10:25:48  Write "gf[BACKSPACE]oog[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]youtube.com[ENTER]"
+2016-03-22 10:25:49  Click "{ImageFolder}/14586386764481.png"
+2016-03-22 10:25:58  Click failed, image not found in line: 3
+2016-03-22 10:25:58  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\examples\test.txt" failed
+2016-03-22 10:26:03  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\examples\test.txt" started
+2016-03-22 10:26:03  Click "{ImageFolder}/14586386764120.png"
+2016-03-22 10:26:04  Write "gf[BACKSPACE]oog[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]youtube.com[ENTER]"
+2016-03-22 10:26:06  Click "{ImageFolder}/14586386764481.png"
+2016-03-22 10:26:10  Wait
+2016-03-22 10:26:13  Write "VOLVO[ENTER]"
+2016-03-22 10:26:13  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\examples\test.txt" completed
+2016-03-22 10:28:12  Script started
+2016-03-22 10:28:12  Click "{ImageFolder}/14586388209350.png" 49 48
+2016-03-22 10:28:12  Click failed, image not found in line: 1
+2016-03-22 10:28:13  Script failed
+2016-03-22 10:35:31  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" started
+2016-03-22 10:35:31  Click "{ImageFolder}/14586374815930.png" 51 48
+2016-03-22 10:35:32  DragStart "{ImageFolder}/14586374816301.png" 50 47
+2016-03-22 10:35:35  DragDrop "{ImageFolder}/14586374816502.png" 48 46
+2016-03-22 10:35:37  Write "wikipedia.org[ENTER]"
+2016-03-22 10:35:37  Click "{ImageFolder}/14586374816763.png" 53 56
+2016-03-22 10:36:08  Click failed, image not found in line: 5
+2016-03-22 10:38:45  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" failed
+2016-03-22 10:39:40  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" started
+2016-03-22 10:39:40  Click "{ImageFolder}/14586374815930.png" 51 48
+2016-03-22 10:39:41  DragStart "{ImageFolder}/14586374816301.png" 50 47
+2016-03-22 10:39:51  DragStart failed, image not found in line: 2
+2016-03-22 10:39:51  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" failed
+2016-03-22 10:40:12  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" started
+2016-03-22 10:40:12  Click "{ImageFolder}/14586374815930.png" 51 48
+2016-03-22 10:40:13  DragStart "{ImageFolder}/14586374816301.png" 50 47
+2016-03-22 10:40:15  DragDrop "{ImageFolder}/14586374816502.png" 48 46
+2016-03-22 10:40:16  Write "wikipedia.org[ENTER]"
+2016-03-22 10:40:17  Click "{ImageFolder}/14586374816763.png" 90 57
+2016-03-22 10:40:29  Write "ac milan[ENTER]"
+2016-03-22 10:40:29  Click "{ImageFolder}/14586374817194.png"
+2016-03-22 10:40:32  Script "C:\Users\Bawar\Desktop\jAutomate\jautomate\scripts\test.txt" completed
+2016-03-22 10:42:16  Script started
+2016-03-22 10:42:16  Click "{ImageFolder}/14586397303310.png"
+2016-03-22 10:42:17  Click "{ImageFolder}/14586397303591.png"
+2016-03-22 10:42:19  Write "www.wiki[NUMPAD7][ENTER]"
+2016-03-22 10:42:20  Click "{ImageFolder}/14586397303832.png"
+2016-03-22 10:42:28  Click failed, image not found in line: 4
+2016-03-22 10:42:28  Script failed
+2016-03-22 10:42:37  Script started
+2016-03-22 10:42:37  Click "{ImageFolder}/14586397303310.png"
+2016-03-22 10:42:38  Click "{ImageFolder}/14586397303591.png"
+2016-03-22 10:42:41  Write "www.wiki[NUMPAD7][ENTER]"
+2016-03-22 10:42:42  Click "{ImageFolder}/14586397303832.png"
+2016-03-22 10:43:12  Click failed, image not found in line: 4
+2016-03-22 10:43:33  Manual test "<b>Click</b> <br/><img src="manual_test_dialog.png"/>" failed in line: 4
+2016-03-22 10:43:33  Script failed
+2016-03-22 10:44:38  Script started
+2016-03-22 10:44:38  Click "{ImageFolder}/14586398729400.png"
+2016-03-22 10:44:42  Click failed, image not found in line: 1
+2016-03-22 10:44:43  Script failed
+2016-03-22 10:44:48  Script started
+2016-03-22 10:44:48  Click "{ImageFolder}/14586398729400.png"
+2016-03-22 10:45:18  Click failed, image not found in line: 1
+2016-03-22 10:55:19  No response from manual test in line: 1
+2016-03-22 10:55:19  ManualTestResult = ""
+2016-03-22 10:55:19  Script failed
+2016-04-12 10:36:35  Script started
+2016-04-12 10:36:35  Click "{ImageFolder}/14604500995470.png" 203 97 3 8
+2016-04-12 10:36:36  Click "{ImageFolder}/14604500995781.png"
+2016-04-12 10:36:38  Wait
+2016-04-12 10:36:39  Write "pricru[BACKSPACE][BACKSPACE]erunner.se[ENTER]"
+2016-04-12 10:36:41  Click "{ImageFolder}/14604500996322.png" 187 86 3 5
+2016-04-12 10:37:09  Click failed, image not found in line: 5
+2016-04-12 10:37:09  Script failed
+2016-04-12 10:41:34  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 10:41:34  Click "{ImageFolder}/14604503042740.png"
+2016-04-12 10:41:36  Wait 1000
+2016-04-12 10:41:38  Click "{ImageFolder}/14604503043011.png"
+2016-04-12 10:41:39  Wait
+2016-04-12 10:41:59  Write "www.pricerunner.se[ENTER]"
+2016-04-12 10:42:00  Write "add[BACKSPACE]idas stan smith[ENTER]"
+2016-04-12 10:42:01  Click "{ImageFolder}/14604503043342.png"
+2016-04-12 10:42:12  MouseScroll 4
+2016-04-12 10:42:12  Click "{ImageFolder}/14604503043613.png"
+2016-04-12 10:42:14  MouseScroll 5
+2016-04-12 10:42:14  WaitMouseMove "{ImageFolder}/14604503043834.png"
+2016-04-12 10:42:15  Click "{ImageFolder}/14604503044115.png"
+2016-04-12 10:42:46  Click "{ImageFolder}/14604503044266.png"
+2016-04-12 10:43:00  Click failed, image not found in line: 14
+2016-04-12 10:43:01  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 10:43:16  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 10:43:16  Click "{ImageFolder}/14604503042740.png"
+2016-04-12 10:43:17  Wait 1000
+2016-04-12 10:43:19  Click "{ImageFolder}/14604503043011.png"
+2016-04-12 10:43:49  Click failed, image not found in line: 3
+2016-04-12 10:44:19  Manual test "<b>Click</b> <br/><img src="manual_test_dialog.png"/>" passed
+2016-04-12 10:44:19  Wait
+2016-04-12 10:44:44  Write "www.pricerunner.se[ENTER]"
+2016-04-12 10:44:45  Write "add[BACKSPACE]idas stan smith[ENTER]"
+2016-04-12 10:44:47  Click "{ImageFolder}/14604503043342.png"
+2016-04-12 10:45:15  Click failed, image not found in line: 8
+2016-04-12 10:45:16  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 10:46:02  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 10:46:02  Click "{ImageFolder}/14604503042740.png"
+2016-04-12 10:46:03  Wait 1000
+2016-04-12 10:46:05  Click "{ImageFolder}/14604503043011.png" 39 45
+2016-04-12 10:46:30  Click failed, image not found in line: 3
+2016-04-12 10:46:30  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 10:46:48  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 10:46:48  Click "{ImageFolder}/14604503042740.png"
+2016-04-12 10:46:49  Wait 1000
+2016-04-12 10:46:51  Click "{ImageFolder}/14604503043011.png" 39 45
+2016-04-12 10:47:22  Click failed, image not found in line: 3
+2016-04-12 10:47:43  Manual test "<b>Click</b> <br/><img src="manual_test_dialog.png"/>" passed
+2016-04-12 10:47:43  Wait 1000
+2016-04-12 10:47:45  Write "www.pricerunner.se[ENTER]"
+2016-04-12 10:47:46  Write "adidas stan smith[ENTER]"
+2016-04-12 10:47:47  Click "{ImageFolder}/14604503043342.png"
+2016-04-12 10:48:04  Click failed, image not found in line: 8
+2016-04-12 10:48:04  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 10:48:47  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 10:48:47  Click "{ImageFolder}/14604503042740.png"
+2016-04-12 10:48:48  Wait 1000
+2016-04-12 10:48:50  Click "{ImageFolder}/14604503043011.png" 39 45
+2016-04-12 10:49:20  Click failed, image not found in line: 3
+2016-04-12 10:49:26  Manual test "<b>Click</b> <br/><img src="manual_test_dialog.png"/>" passed
+2016-04-12 10:49:26  Wait 1000
+2016-04-12 10:49:28  Write "www.pricerunner.se[ENTER]"
+2016-04-12 10:49:29  Wait 1000
+2016-04-12 10:49:31  Write "adidas stan smith[ENTER]"
+2016-04-12 10:49:32  Click "{ImageFolder}/14604503043342.png"
+2016-04-12 10:49:37  Click failed, image not found in line: 9
+2016-04-12 10:49:38  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 10:51:15  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 10:51:15  Click "{ImageFolder}/14604503042740.png"
+2016-04-12 10:51:16  Wait 1000
+2016-04-12 10:51:18  Click "{ImageFolder}/14604503043011.png"
+2016-04-12 10:51:38  Wait 1000
+2016-04-12 10:51:40  Write "www.pricerunner.se[ENTER]"
+2016-04-12 10:51:41  Wait 1000
+2016-04-12 10:51:43  Write "adidas stan smith[ENTER]"
+2016-04-12 10:51:44  Click "{ImageFolder}/14604503043342.png"
+2016-04-12 10:51:46  MouseScroll 4
+2016-04-12 10:51:46  Click "{ImageFolder}/14604503043613.png"
+2016-04-12 10:51:47  MouseScroll 5
+2016-04-12 10:51:47  WaitMouseMove "{ImageFolder}/14604503043834.png"
+2016-04-12 10:51:48  Click "{ImageFolder}/14604503044115.png"
+2016-04-12 10:51:49  Click "{ImageFolder}/14604503044266.png"
+2016-04-12 10:52:18  Click failed, image not found in line: 15
+2016-04-12 10:52:18  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 10:53:54  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 10:53:54  Click "{ImageFolder}/14604503042740.png"
+2016-04-12 10:53:55  Wait 1000
+2016-04-12 10:53:57  Click "{ImageFolder}/14604503043011.png"
+2016-04-12 10:54:02  Click failed, image not found in line: 3
+2016-04-12 10:54:02  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 10:54:09  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 10:54:09  Click "{ImageFolder}/14604503042740.png"
+2016-04-12 10:54:10  Wait 1000
+2016-04-12 10:54:12  Click "{ImageFolder}/14604503043011.png"
+2016-04-12 10:54:42  Click failed, image not found in line: 3
+2016-04-12 10:54:51  Manual test "<b>Click</b> <br/><img src="manual_test_dialog.png"/>" passed
+2016-04-12 10:54:52  Wait 1000
+2016-04-12 10:54:54  Write "www.pricerunner.se[ENTER]"
+2016-04-12 10:54:55  Wait 1000
+2016-04-12 10:54:57  Write "adidas stan smith[ENTER]"
+2016-04-12 10:54:58  Click "{ImageFolder}/14604503043342.png"
+2016-04-12 10:55:01  Click failed, image not found in line: 9
+2016-04-12 10:55:01  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 10:55:17  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 10:55:17  Click "{ImageFolder}/14604503042740.png"
+2016-04-12 10:55:18  Wait 1000
+2016-04-12 10:55:20  Click "{ImageFolder}/14604503043011.png"
+2016-04-12 10:55:50  Click failed, image not found in line: 3
+2016-04-12 10:55:54  Manual test "<b>Click</b> <br/><img src="manual_test_dialog.png"/>" passed
+2016-04-12 10:55:54  Wait 1000
+2016-04-12 10:55:56  Write "www.pricerunner.se[ENTER]"
+2016-04-12 10:55:58  Wait 1000
+2016-04-12 10:56:00  Write "adidas stan smith[ENTER]"
+2016-04-12 10:56:01  Click "{ImageFolder}/14604503043342.png"
+2016-04-12 10:56:05  Click failed, image not found in line: 9
+2016-04-12 10:56:06  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 10:57:31  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 10:57:31  Click "{ImageFolder}/14604503042740.png"
+2016-04-12 10:57:32  Wait 1000
+2016-04-12 10:57:34  Click "{ImageFolder}/14604514151300.png"
+2016-04-12 10:57:36  Wait 1000
+2016-04-12 10:57:38  Write "www.pricerunner.se[ENTER]"
+2016-04-12 10:57:39  Wait 1000
+2016-04-12 10:57:41  Write "adidas stan smith[ENTER]"
+2016-04-12 10:57:42  Click "{ImageFolder}/14604503043342.png"
+2016-04-12 10:57:44  MouseScroll 4
+2016-04-12 10:57:44  Click "{ImageFolder}/14604503043613.png" 52 51
+2016-04-12 10:57:57  Click failed, image not found in line: 11
+2016-04-12 10:57:58  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 10:58:58  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 10:58:58  Click "{ImageFolder}/14604503042740.png"
+2016-04-12 10:58:59  Wait 1000
+2016-04-12 10:59:01  Click "{ImageFolder}/14604514151300.png"
+2016-04-12 10:59:02  Wait 1000
+2016-04-12 10:59:04  Write "www.pricerunner.se[ENTER]"
+2016-04-12 10:59:05  Wait 1000
+2016-04-12 10:59:07  Write "adidas stan smith[ENTER]"
+2016-04-12 10:59:08  Click "{ImageFolder}/14604503043342.png"
+2016-04-12 10:59:10  MouseScroll 4
+2016-04-12 10:59:10  Click "{ImageFolder}/14604503043613.png" 52 51
+2016-04-12 10:59:40  Click failed, image not found in line: 11
+2016-04-12 10:59:44  Manual test "<b>Click</b> <br/><img src="manual_test_dialog.png"/>" passed
+2016-04-12 10:59:44  MouseScroll 5
+2016-04-12 10:59:44  WaitMouseMove "{ImageFolder}/14604503043834.png" 42 83
+2016-04-12 11:00:13  WaitMouseMove failed, image not found in line: 13
+2016-04-12 11:00:14  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 11:01:06  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 11:01:06  Click "{ImageFolder}/14604503042740.png"
+2016-04-12 11:01:08  Wait 1000
+2016-04-12 11:01:10  Click "{ImageFolder}/14604514151300.png"
+2016-04-12 11:01:11  Wait 1000
+2016-04-12 11:01:13  Write "www.pricerunner.se[ENTER]"
+2016-04-12 11:01:14  Wait 1000
+2016-04-12 11:01:16  Write "adidas stan smith[ENTER]"
+2016-04-12 11:01:17  Wait 1000
+2016-04-12 11:01:19  Click "{ImageFolder}/14604516613400.png"
+2016-04-12 11:01:20  MouseScroll 4
+2016-04-12 11:01:20  Click "{ImageFolder}/14604503043613.png" 52 51
+2016-04-12 11:01:50  Click failed, image not found in line: 14
+2016-04-12 11:02:00  Manual test "<b>Click</b> <br/><img src="manual_test_dialog.png"/>" failed in line: 14
+2016-04-12 11:02:01  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 11:04:04  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:04:04  Click "{ImageFolder}/14604517997860.png" 48 48
+2016-04-12 11:04:05  Click "{ImageFolder}/14604517998261.png"
+2016-04-12 11:04:17  Wait
+2016-04-12 11:04:18  Write "pricerunner.se[ENTER]"
+2016-04-12 11:04:19  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" stopped
+2016-04-12 11:05:11  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:05:11  Click "{ImageFolder}/14604517997860.png" 48 48
+2016-04-12 11:05:12  Click "{ImageFolder}/14604518784520.png"
+2016-04-12 11:05:14  Wait 2000
+2016-04-12 11:05:17  Write "pricerunner.se[ENTER]"
+2016-04-12 11:05:18  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 11:05:24  Click failed, image not found in line: 5
+2016-04-12 11:05:24  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 11:05:29  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:05:29  Click "{ImageFolder}/14604517997860.png" 48 48
+2016-04-12 11:05:30  Click "{ImageFolder}/14604518784520.png"
+2016-04-12 11:05:32  Wait 2000
+2016-04-12 11:05:35  Write "pricerunner.se[ENTER]"
+2016-04-12 11:05:36  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 11:05:38  Write "stan smith[ENTER]"
+2016-04-12 11:05:38  Click "{ImageFolder}/14604517998943.png" 50 48
+2016-04-12 11:05:41  MouseScroll 2
+2016-04-12 11:05:41  Click "{ImageFolder}/14604517999114.png"
+2016-04-12 11:05:50  Click failed, image not found in line: 9
+2016-04-12 11:05:51  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 11:06:34  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:06:34  Click "{ImageFolder}/14604517997860.png" 48 48
+2016-04-12 11:06:35  Click "{ImageFolder}/14604518784520.png"
+2016-04-12 11:06:38  Wait 2000
+2016-04-12 11:06:41  Write "pricerunner.se[ENTER]"
+2016-04-12 11:06:42  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 11:06:43  Write "stan smith[ENTER]"
+2016-04-12 11:06:44  Click "{ImageFolder}/14604517998943.png" 50 48
+2016-04-12 11:06:47  Wait 2000
+2016-04-12 11:06:50  MouseScroll 2
+2016-04-12 11:06:50  Click "{ImageFolder}/14604517999114.png"
+2016-04-12 11:06:52  Wait 2000
+2016-04-12 11:06:55  Click "{ImageFolder}/14604517999275.png"
+2016-04-12 11:07:22  Click failed, image not found in line: 12
+2016-04-12 11:07:22  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 11:07:34  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:07:34  Click "{ImageFolder}/14604517997860.png" 48 48
+2016-04-12 11:07:35  Click "{ImageFolder}/14604518784520.png"
+2016-04-12 11:07:37  Wait 2000
+2016-04-12 11:07:40  Write "pricerunner.se[ENTER]"
+2016-04-12 11:07:41  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 11:07:43  Write "stan smith[ENTER]"
+2016-04-12 11:07:43  Click "{ImageFolder}/14604517998943.png" 50 48
+2016-04-12 11:07:46  Wait 2000
+2016-04-12 11:07:49  MouseScroll 2
+2016-04-12 11:07:49  Click "{ImageFolder}/14604517999114.png"
+2016-04-12 11:08:19  Click failed, image not found in line: 10
+2016-04-12 11:08:23  Manual test "<b>Click</b> <br/><img src="manual_test_dialog.png"/>" failed in line: 10
+2016-04-12 11:08:24  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 11:09:15  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:09:15  Write "stan smith[ENTER]"
+2016-04-12 11:09:15  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" stopped
+2016-04-12 11:09:26  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:09:26  Click "{ImageFolder}/14604517997860.png" 48 48
+2016-04-12 11:09:27  Click "{ImageFolder}/14604518784520.png"
+2016-04-12 11:09:30  Wait 2000
+2016-04-12 11:09:33  Write "pricerunner.se[ENTER]"
+2016-04-12 11:09:34  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 11:09:35  Write "stan smith[ENTER]"
+2016-04-12 11:09:36  Wait 2000
+2016-04-12 11:09:39  Click "{ImageFolder}/14604517998943.png" 50 48
+2016-04-12 11:09:40  Wait 2000
+2016-04-12 11:09:43  MouseScroll 2
+2016-04-12 11:09:43  Click "{ImageFolder}/14604517999114.png"
+2016-04-12 11:09:45  Wait 2000
+2016-04-12 11:09:48  Click "{ImageFolder}/14604517999275.png"
+2016-04-12 11:10:06  Wait 2000
+2016-04-12 11:10:09  WaitMouseMove "{ImageFolder}/14604517999626.png"
+2016-04-12 11:10:11  WaitMouseMove failed, image not found in line: 15
+2016-04-12 11:10:11  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 11:11:25  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:11:25  Click "{ImageFolder}/14604517997860.png" 48 48
+2016-04-12 11:11:26  Click "{ImageFolder}/14604518784520.png"
+2016-04-12 11:11:28  Wait 2000
+2016-04-12 11:11:32  Write "pricerunner.se[ENTER]"
+2016-04-12 11:11:32  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 11:11:34  Write "stan smith[ENTER]"
+2016-04-12 11:11:34  Wait 2000
+2016-04-12 11:11:37  Click "{ImageFolder}/14604517998943.png" 50 48
+2016-04-12 11:11:38  Wait 2000
+2016-04-12 11:11:41  MouseScroll 4
+2016-04-12 11:11:41  Click "{ImageFolder}/1460452262314.png"
+2016-04-12 11:11:43  Wait 2000
+2016-04-12 11:11:46  Click "{ImageFolder}/14604517999275.png" 50 52
+2016-04-12 11:11:48  Wait 2000
+2016-04-12 11:11:51  WaitMouseMove "{ImageFolder}/14604517999626.png"
+2016-04-12 11:12:01  WaitMouseMove failed, image not found in line: 15
+2016-04-12 11:12:01  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 11:13:27  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:13:27  Click "{ImageFolder}/14604517997860.png" 48 48
+2016-04-12 11:13:28  Click "{ImageFolder}/14604518784520.png"
+2016-04-12 11:13:31  Wait 2000
+2016-04-12 11:13:34  Write "pricerunner.se[ENTER]"
+2016-04-12 11:13:35  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 11:13:37  Write "stan smith[ENTER]"
+2016-04-12 11:13:37  Wait 2000
+2016-04-12 11:13:40  Click "{ImageFolder}/14604517998943.png" 50 48
+2016-04-12 11:13:41  Wait 2000
+2016-04-12 11:13:44  MouseScroll 4
+2016-04-12 11:13:44  Click "{ImageFolder}/1460452262314.png"
+2016-04-12 11:13:46  Wait 2000
+2016-04-12 11:13:49  Click "{ImageFolder}/14604517999275.png" 50 52
+2016-04-12 11:13:50  Wait 2000
+2016-04-12 11:13:53  MouseScroll 5
+2016-04-12 11:13:53  Click "{ImageFolder}/14604517999777.png" 171 80 43 18
+2016-04-12 11:13:55  Wait 2000
+2016-04-12 11:13:58  Click "{ImageFolder}/14604517999938.png" 51 52
+2016-04-12 11:14:00  Wait 2000
+2016-04-12 11:14:03  Click "{ImageFolder}/14604518000249.png"
+2016-04-12 11:14:04  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 11:14:43  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:14:43  Click "{ImageFolder}/14604517997860.png" 48 48
+2016-04-12 11:14:44  Click "{ImageFolder}/14604518784520.png"
+2016-04-12 11:14:50  Click failed, image not found in line: 2
+2016-04-12 11:14:50  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 11:16:15  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:16:15  Click "{ImageFolder}/14604517997860.png" 48 48
+2016-04-12 11:16:16  Click "{ImageFolder}/14604518784520.png"
+2016-04-12 11:16:19  Wait 2000
+2016-04-12 11:16:23  Write "pricerunner.se[ENTER]"
+2016-04-12 11:16:23  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 11:16:25  Write "stan smith[ENTER]"
+2016-04-12 11:16:25  Wait 2000
+2016-04-12 11:16:28  Click "{ImageFolder}/14604517998943.png" 50 48
+2016-04-12 11:16:29  Wait 2000
+2016-04-12 11:16:32  MouseScroll 4
+2016-04-12 11:16:32  Click "{ImageFolder}/1460452262314.png"
+2016-04-12 11:16:33  Wait 2000
+2016-04-12 11:16:36  Click "{ImageFolder}/14604517999275.png" 50 52
+2016-04-12 11:16:38  Wait 2000
+2016-04-12 11:16:41  Wait 2000
+2016-04-12 11:16:44  MouseScroll 5
+2016-04-12 11:16:44  Click "{ImageFolder}/14604517999777.png" 171 80 43 18
+2016-04-12 11:16:45  Wait 2000
+2016-04-12 11:16:48  Click "{ImageFolder}/14604517999938.png" 51 52
+2016-04-12 11:17:00  Wait 2000
+2016-04-12 11:17:03  Click "{ImageFolder}/14604525090540.png" 159 102 81 15
+2016-04-12 11:17:08  Wait 1000
+2016-04-12 11:17:10  Click "{ImageFolder}/14604525091253.png" 181 94 28 13
+2016-04-12 11:17:12  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 11:19:01  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 11:19:01  Click "{ImageFolder}/14604517997860.png" 48 49
+2016-04-12 11:19:02  Click "{ImageFolder}/14604518784520.png" 37 49
+2016-04-12 11:19:05  Wait 2000
+2016-04-12 11:19:08  Write "pricerunner.se[ENTER]"
+2016-04-12 11:19:09  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 11:19:10  Write "stan smith[ENTER]"
+2016-04-12 11:19:11  Wait 2000
+2016-04-12 11:19:14  Click "{ImageFolder}/14604517998943.png" 50 48
+2016-04-12 11:19:15  Wait 2000
+2016-04-12 11:19:18  MouseScroll 4
+2016-04-12 11:19:18  Click "{ImageFolder}/1460452262314.png"
+2016-04-12 11:19:19  Wait 2000
+2016-04-12 11:19:23  Click "{ImageFolder}/14604517999275.png" 191 95 64 23
+2016-04-12 11:19:24  Wait 2000
+2016-04-12 11:19:27  MouseScroll 5
+2016-04-12 11:19:27  Click "{ImageFolder}/14604517999777.png" 171 80 43 18
+2016-04-12 11:19:28  Wait 2000
+2016-04-12 11:19:31  Click "{ImageFolder}/14604517999938.png" 194 92 55 22
+2016-04-12 11:19:32  Wait 2000
+2016-04-12 11:19:35  Click "{ImageFolder}/14604525090540.png" 159 102 81 15
+2016-04-12 11:19:36  Wait 1000
+2016-04-12 11:19:38  Click "{ImageFolder}/14604525091253.png" 181 94 28 13
+2016-04-12 11:19:39  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 12:26:57  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 12:26:57  Click "{ImageFolder}/14604517997860.png" 48 49
+2016-04-12 12:26:58  Click "{ImageFolder}/14604518784520.png" 37 49
+2016-04-12 12:27:11  Click failed, image not found in line: 2
+2016-04-12 12:27:11  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 12:27:22  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 12:27:22  Click "{ImageFolder}/14604517997860.png" 48 49
+2016-04-12 12:27:24  Click "{ImageFolder}/14604518784520.png" 37 49
+2016-04-12 12:27:26  Wait 2000
+2016-04-12 12:27:29  Write "pricerunner.se[ENTER]"
+2016-04-12 12:27:30  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 12:27:31  Write "stan smith[ENTER]"
+2016-04-12 12:27:32  Wait 2000
+2016-04-12 12:27:35  Click "{ImageFolder}/14604517998943.png" 50 48
+2016-04-12 12:27:36  Wait 2000
+2016-04-12 12:27:39  MouseScroll 4
+2016-04-12 12:27:39  Click "{ImageFolder}/1460452262314.png"
+2016-04-12 12:27:41  Wait 2000
+2016-04-12 12:27:44  Click "{ImageFolder}/14604517999275.png" 191 95 64 23
+2016-04-12 12:27:45  Wait 2000
+2016-04-12 12:27:48  MouseScroll 5
+2016-04-12 12:27:48  Click "{ImageFolder}/14604517999777.png" 171 80 43 18
+2016-04-12 12:27:49  Wait 2000
+2016-04-12 12:27:52  Click "{ImageFolder}/14604517999938.png" 194 92 55 22
+2016-04-12 12:27:53  Wait 2000
+2016-04-12 12:27:56  Click "{ImageFolder}/14604525090540.png" 159 102 81 15
+2016-04-12 12:27:57  Wait 1000
+2016-04-12 12:27:59  Click "{ImageFolder}/14604525091253.png" 181 94 28 13
+2016-04-12 12:28:00  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 12:35:16  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 12:35:16  Click "{ImageFolder}/14604517997860.png" 48 49
+2016-04-12 12:35:17  Click "{ImageFolder}/14604518784520.png" 37 49
+2016-04-12 12:35:35  Click failed, image not found in line: 2
+2016-04-12 12:35:36  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 12:35:50  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 12:35:50  Click "{ImageFolder}/14604517997860.png" 48 49
+2016-04-12 12:35:51  Click "{ImageFolder}/14604518784520.png" 37 49
+2016-04-12 12:35:55  Wait 2000
+2016-04-12 12:35:58  Write "pricerunner.se[ENTER]"
+2016-04-12 12:35:59  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 12:36:00  Write "stan smith[ENTER]"
+2016-04-12 12:36:01  Wait 2000
+2016-04-12 12:36:04  Click "{ImageFolder}/14604517998943.png" 50 48
+2016-04-12 12:36:05  Wait 2000
+2016-04-12 12:36:08  MouseScroll 4
+2016-04-12 12:36:08  Click "{ImageFolder}/1460452262314.png"
+2016-04-12 12:36:10  Wait 2000
+2016-04-12 12:36:13  Click "{ImageFolder}/14604517999275.png" 191 95 64 23
+2016-04-12 12:36:14  Wait 2000
+2016-04-12 12:36:17  MouseScroll 5
+2016-04-12 12:36:17  Click "{ImageFolder}/14604517999777.png" 171 80 43 18
+2016-04-12 12:36:18  Wait 2000
+2016-04-12 12:36:21  Click "{ImageFolder}/14604517999938.png" 194 92 55 22
+2016-04-12 12:36:22  Wait 2000
+2016-04-12 12:36:25  Click "{ImageFolder}/14604525090540.png" 159 102 81 15
+2016-04-12 12:36:26  Wait 1000
+2016-04-12 12:36:28  Click "{ImageFolder}/14604525091253.png" 181 94 28 13
+2016-04-12 12:36:29  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 12:41:21  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 12:41:21  Click "{ImageFolder}/14604517997860.png" 48 49
+2016-04-12 12:41:22  Click "{ImageFolder}/14604518784520.png" 37 49
+2016-04-12 12:41:24  Wait 2000
+2016-04-12 12:41:27  Write "pricerunner.se[ENTER]"
+2016-04-12 12:41:28  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 12:41:30  Write "stan smith[ENTER]"
+2016-04-12 12:41:30  Wait 2000
+2016-04-12 12:41:33  Click "{ImageFolder}/14604517998943.png" 50 48
+2016-04-12 12:41:35  Wait 2000
+2016-04-12 12:41:38  MouseScroll 4
+2016-04-12 12:41:38  Click "{ImageFolder}/1460452262314.png"
+2016-04-12 12:41:39  Wait 2000
+2016-04-12 12:41:42  Click "{ImageFolder}/14604517999275.png" 191 95 64 23
+2016-04-12 12:41:43  Wait 2000
+2016-04-12 12:41:46  MouseScroll 5
+2016-04-12 12:41:46  Click "{ImageFolder}/14604517999777.png" 171 80 43 18
+2016-04-12 12:41:48  Wait 2000
+2016-04-12 12:41:51  Click "{ImageFolder}/14604517999938.png" 194 92 55 22
+2016-04-12 12:41:51  Wait 2000
+2016-04-12 12:41:54  Click "{ImageFolder}/14604525090540.png" 159 102 81 15
+2016-04-12 12:41:55  Wait 1000
+2016-04-12 12:41:57  Click "{ImageFolder}/14604525091253.png" 181 94 28 13
+2016-04-12 12:41:58  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 12:55:09  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 12:55:09  Click "{ImageFolder}/14604517997860.png" 48 49
+2016-04-12 12:55:10  Click "{ImageFolder}/14604518784520.png" 37 49
+2016-04-12 12:55:21  Click failed, image not found in line: 2
+2016-04-12 12:55:22  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 12:55:26  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 12:55:26  Click "{ImageFolder}/14604517997860.png" 48 49
+2016-04-12 12:55:27  Click "{ImageFolder}/14604518784520.png" 37 49
+2016-04-12 12:55:30  Wait 2000
+2016-04-12 12:55:33  Write "pricerunner.se[ENTER]"
+2016-04-12 12:55:34  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 12:55:35  Write "stan smith[ENTER]"
+2016-04-12 12:55:36  Wait 2000
+2016-04-12 12:55:39  Click "{ImageFolder}/14604517998943.png" 50 48
+2016-04-12 12:55:40  Wait 2000
+2016-04-12 12:55:43  MouseScroll 4
+2016-04-12 12:55:43  Click "{ImageFolder}/1460452262314.png"
+2016-04-12 12:55:45  Wait 2000
+2016-04-12 12:55:48  Click "{ImageFolder}/14604517999275.png" 191 95 64 23
+2016-04-12 12:55:49  Wait 2000
+2016-04-12 12:55:52  MouseScroll 5
+2016-04-12 12:55:52  Click "{ImageFolder}/14604517999777.png" 171 80 43 18
+2016-04-12 12:55:53  Wait 2000
+2016-04-12 12:55:56  Click "{ImageFolder}/14604517999938.png" 194 92 55 22
+2016-04-12 12:55:57  Wait 2000
+2016-04-12 12:56:00  Click "{ImageFolder}/14604525090540.png" 159 102 81 15
+2016-04-12 12:56:01  Wait 1000
+2016-04-12 12:56:03  Click "{ImageFolder}/14604525091253.png" 181 94 28 13
+2016-04-12 12:56:04  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 13:41:49  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 13:41:49  Call 2.txt
+2016-04-12 13:41:49  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 13:41:49  Click "{ImageFolder}/14604517997860.png" 48 49
+2016-04-12 13:41:50  Click "{ImageFolder}/14604518784520.png" 37 49
+2016-04-12 13:41:58  Click failed, image not found in line: 2
+2016-04-12 13:41:58  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 13:41:59  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" failed
+2016-04-12 13:42:05  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 13:42:05  Call 2.txt
+2016-04-12 13:42:05  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 13:42:05  Click "{ImageFolder}/14604517997860.png" 48 49
+2016-04-12 13:42:06  Click "{ImageFolder}/14604518784520.png" 37 49
+2016-04-12 13:42:09  Wait 2000
+2016-04-12 13:42:12  Write "pricerunner.se[ENTER]"
+2016-04-12 13:42:12  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 13:42:14  Write "stan smith[ENTER]"
+2016-04-12 13:42:15  Wait 2000
+2016-04-12 13:42:18  Click "{ImageFolder}/14604517998943.png" 50 48
+2016-04-12 13:42:19  Wait 2000
+2016-04-12 13:42:22  MouseScroll 4
+2016-04-12 13:42:22  Click "{ImageFolder}/1460452262314.png"
+2016-04-12 13:42:24  Click failed, image not found in line: 11
+2016-04-12 13:42:24  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 13:42:25  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" failed
+2016-04-12 13:43:54  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 13:43:54  Call jautomatetesttxt
+2016-04-12 13:43:54  Script failed: java.io.FileNotFoundException: C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt (Det går inte att hitta filen)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at jautomate.ScriptRunner.runScriptInternal(ScriptRunner.java:416)
+	at jautomate.ScriptRunner.processNonBlankLine(ScriptRunner.java:3314)
+	at jautomate.ScriptRunner.processLine(ScriptRunner.java:1182)
+	at jautomate.ScriptRunner.processScript(ScriptRunner.java:550)
+	at jautomate.ScriptRunner.runScriptInternal(ScriptRunner.java:521)
+	at jautomate.ScriptRunner.runScript(ScriptRunner.java:454)
+	at jautomateeditor.JAutomateStudio.runScript(JAutomateStudio.java:5618)
+	at jautomateeditor.JAutomateStudio.access$2(JAutomateStudio.java:5524)
+	at jautomateeditor.JAutomateStudio$RunnerThread.run(JAutomateStudio.java:6613)
+ in line: 0
+2016-04-12 13:43:54  Script failed
+2016-04-12 13:43:54  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" failed
+2016-04-12 13:44:34  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 13:44:34  Call jautomatetesttxt.txt
+2016-04-12 13:44:34  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 13:44:34  Click "{ImageFolder}/14604517997860.png" 48 49
+2016-04-12 13:44:35  Click "{ImageFolder}/14604518784520.png" 37 49
+2016-04-12 13:44:37  Wait 2000
+2016-04-12 13:44:40  Write "pricerunner.se[ENTER]"
+2016-04-12 13:44:41  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 13:44:43  Write "stan smith[ENTER]"
+2016-04-12 13:44:43  Wait 2000
+2016-04-12 13:44:46  Click "{ImageFolder}/14604517998943.png" 50 48
+2016-04-12 13:44:48  Wait 2000
+2016-04-12 13:44:51  MouseScroll 4
+2016-04-12 13:44:51  Click "{ImageFolder}/1460452262314.png"
+2016-04-12 13:44:52  Click failed, image not found in line: 11
+2016-04-12 13:44:53  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 13:44:53  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" failed
+2016-04-12 13:50:42  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 13:50:42  Call jautomatetesttxt.txt
+2016-04-12 13:50:42  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 13:50:42  Click "{ImageFolder}/14604517997860.png" 48 49
+2016-04-12 13:50:43  Click "{ImageFolder}/14604518784520.png" 37 49
+2016-04-12 13:50:45  Wait 2000
+2016-04-12 13:50:48  Write "pricerunner.se[ENTER]"
+2016-04-12 13:50:49  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" stopped
+2016-04-12 13:50:50  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" failed
+2016-04-12 13:56:32  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 13:56:32  StartWeb "www.pricerunner.se"
+2016-04-12 13:56:32  Call jautomatetesttxt.txt
+2016-04-12 13:56:32  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 13:56:32  Wait 2000
+2016-04-12 13:56:35  Write "pricerunner.se[ENTER]"
+2016-04-12 13:56:36  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 13:57:02  Click failed, image not found in line: 5
+2016-04-12 13:57:02  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 13:57:02  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" failed
+2016-04-12 13:57:28  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 13:57:28  StartWeb "www.pricerunner.se"
+2016-04-12 13:57:28  Call jautomatetesttxt.txt
+2016-04-12 13:57:28  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 13:57:28  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 13:57:59  Click failed, image not found in line: 1
+2016-04-12 13:58:09  Manual test "<b>Click</b> <br/><img src="manual_test_dialog.png"/>" failed in line: 1
+2016-04-12 13:58:09  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 13:58:10  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" failed
+2016-04-12 13:59:46  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 13:59:46  StartWeb "www.pricerunner.se"
+2016-04-12 13:59:46  Call jautomatetesttxt.txt
+2016-04-12 13:59:46  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 13:59:46  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 13:59:49  Write "stan smith[ENTER]"
+2016-04-12 13:59:50  Wait 2000
+2016-04-12 13:59:53  Click "{ImageFolder}/14604517998943.png" 50 48
+2016-04-12 13:59:54  Wait 2000
+2016-04-12 13:59:57  MouseScroll 4
+2016-04-12 13:59:57  Click "{ImageFolder}/1460452262314.png"
+2016-04-12 13:59:59  Wait 2000
+2016-04-12 14:00:02  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:00:02  Call 2.txt
+2016-04-12 14:00:02  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:00:02  Click "{ImageFolder}/14604517999275.png" 191 95 64 23
+2016-04-12 14:00:03  Wait 2000
+2016-04-12 14:00:06  MouseScroll 5
+2016-04-12 14:00:06  Click "{ImageFolder}/14604517999777.png" 171 80 43 18
+2016-04-12 14:00:08  Wait 2000
+2016-04-12 14:00:11  Click "{ImageFolder}/14604517999938.png" 194 92 55 22
+2016-04-12 14:00:11  Wait 2000
+2016-04-12 14:00:14  Click "{ImageFolder}/14604525090540.png" 159 102 81 15
+2016-04-12 14:00:16  Wait 1000
+2016-04-12 14:00:18  Click "{ImageFolder}/14604525091253.png" 181 94 28 13
+2016-04-12 14:00:19  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 14:00:19  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" completed
+2016-04-12 14:02:12  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:02:12  StartWeb "www.pricerunner.se"
+2016-04-12 14:02:12  Call jautomatetesttxt.txt
+2016-04-12 14:02:12  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:02:12  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 14:02:15  Write "stan smith[ENTER]"
+2016-04-12 14:02:16  Wait 2000
+2016-04-12 14:02:19  Click "{ImageFolder}/14604517998943.png" 50 48
+2016-04-12 14:02:20  Wait 2000
+2016-04-12 14:02:23  MouseScroll 4
+2016-04-12 14:02:23  Click "{ImageFolder}/1460452262314.png"
+2016-04-12 14:02:24  Wait 2000
+2016-04-12 14:02:27  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:02:27  Call 2.txt
+2016-04-12 14:02:27  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:02:27  Click "{ImageFolder}/14604517999275.png" 191 95 64 23
+2016-04-12 14:02:57  Click failed, image not found in line: 2
+2016-04-12 14:03:03  Manual test "<b>Click</b> <br/><img src="manual_test_dialog.png"/>" failed in line: 2
+2016-04-12 14:03:04  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 14:03:04  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" failed
+2016-04-12 14:05:51  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:05:51  StartWeb "www.pricerunner.se"
+2016-04-12 14:05:51  Call jautomatetesttxt.txt
+2016-04-12 14:05:51  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:05:51  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 14:05:53  Write "stan smith[ENTER]"
+2016-04-12 14:05:54  Wait 2000
+2016-04-12 14:05:57  Click "{ImageFolder}/14604517998943.png" 50 48
+2016-04-12 14:05:58  Wait 2000
+2016-04-12 14:06:01  MouseScroll 4
+2016-04-12 14:06:01  Click "{ImageFolder}/1460452262314.png"
+2016-04-12 14:06:02  Wait 2000
+2016-04-12 14:06:05  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:06:06  Call 2.txt
+2016-04-12 14:06:06  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:06:06  Click "{ImageFolder}/14604517999275.png" 191 95 64 23
+2016-04-12 14:06:07  Wait 2000
+2016-04-12 14:06:10  MouseScroll 5
+2016-04-12 14:06:10  Click "{ImageFolder}/14604517999777.png" 171 80 43 18
+2016-04-12 14:06:11  Wait 2000
+2016-04-12 14:06:14  Click "{ImageFolder}/14604517999938.png" 194 92 55 22
+2016-04-12 14:06:15  Wait 2000
+2016-04-12 14:06:18  Click "{ImageFolder}/14604525090540.png" 159 102 81 15
+2016-04-12 14:06:19  Wait 1000
+2016-04-12 14:06:21  Click "{ImageFolder}/14604525091253.png" 181 94 28 13
+2016-04-12 14:06:22  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 14:06:23  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" completed
+2016-04-12 14:13:58  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:13:58  Begin Settings
+2016-04-12 14:13:58  StopIfFailed No
+2016-04-12 14:13:58  StartWeb "www.pricerunner.se"
+2016-04-12 14:13:58  End
+2016-04-12 14:13:58  Call jautomatetesttxt.txt
+2016-04-12 14:13:58  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:13:58  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 14:14:01  Write "stan smith[ENTER]"
+2016-04-12 14:14:01  Wait 2000
+2016-04-12 14:14:04  Click "{ImageFolder}/14604517998943.png" 50 48
+2016-04-12 14:14:06  Wait 2000
+2016-04-12 14:14:09  MouseScroll 4
+2016-04-12 14:14:09  Click "{ImageFolder}/1460452262314.png"
+2016-04-12 14:14:10  Wait 2000
+2016-04-12 14:14:13  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:14:13  Call 2.txt
+2016-04-12 14:14:13  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:14:13  Click "{ImageFolder}/14604517999275.png" 191 95 64 23
+2016-04-12 14:14:14  Wait 2000
+2016-04-12 14:14:17  MouseScroll 5
+2016-04-12 14:14:17  Click "{ImageFolder}/14604517999777.png" 171 80 43 18
+2016-04-12 14:14:19  Wait 2000
+2016-04-12 14:14:22  Click "{ImageFolder}/14604517999938.png" 194 92 55 22
+2016-04-12 14:14:22  Wait 2000
+2016-04-12 14:14:25  Click "{ImageFolder}/14604525090540.png" 159 102 81 15
+2016-04-12 14:14:34  Click failed, image not found in line: 9
+2016-04-12 14:14:34  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 14:14:35  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" stopped
+2016-04-12 14:15:28  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:15:28  Begin Settings
+2016-04-12 14:15:28  StopIfFailed No
+2016-04-12 14:15:28  StartWeb "www.pricerunner.se"
+2016-04-12 14:15:28  End
+2016-04-12 14:15:28  Call jautomatetesttxt.txt
+2016-04-12 14:15:28  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:15:28  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 14:15:30  Write "stan smith[ENTER]"
+2016-04-12 14:15:30  Wait 2000
+2016-04-12 14:15:33  Click "{ImageFolder}/14604517998943.png" 50 48
+2016-04-12 14:15:35  Wait 2000
+2016-04-12 14:15:38  MouseScroll 4
+2016-04-12 14:15:38  Click "{ImageFolder}/1460452262314.png"
+2016-04-12 14:15:39  Wait 2000
+2016-04-12 14:15:42  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:15:42  Call 2.txt
+2016-04-12 14:15:42  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:15:42  Click "{ImageFolder}/14604517999275.png" 191 95 64 23
+2016-04-12 14:15:43  Wait 2000
+2016-04-12 14:15:46  MouseScroll 5
+2016-04-12 14:15:46  Click "{ImageFolder}/14604517999777.png" 171 80 43 18
+2016-04-12 14:15:48  Wait 2000
+2016-04-12 14:15:51  Click "{ImageFolder}/14604517999938.png" 194 92 55 22
+2016-04-12 14:15:52  Wait 2000
+2016-04-12 14:15:55  Click "{ImageFolder}/14604525090540.png" 159 102 81 15
+2016-04-12 14:16:10  Click failed, image not found in line: 9
+2016-04-12 14:16:11  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 14:16:11  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" stopped
+2016-04-12 14:17:08  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:17:08  Begin Settings
+2016-04-12 14:17:08  StopIfFailed No
+2016-04-12 14:17:08  End
+2016-04-12 14:17:08  Call jautomatetesttxt.txt
+2016-04-12 14:17:08  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:17:08  StartWeb "www.pricerunner.se"
+2016-04-12 14:17:08  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 14:17:10  Write "stan smith[ENTER]"
+2016-04-12 14:17:11  Wait 2000
+2016-04-12 14:17:14  Click "{ImageFolder}/14604517998943.png" 50 48
+2016-04-12 14:17:15  Wait 2000
+2016-04-12 14:17:18  MouseScroll 4
+2016-04-12 14:17:18  Click "{ImageFolder}/1460452262314.png"
+2016-04-12 14:17:20  Wait 2000
+2016-04-12 14:17:23  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:17:23  Call 2.txt
+2016-04-12 14:17:23  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:17:23  Click "{ImageFolder}/14604517999275.png" 191 95 64 23
+2016-04-12 14:17:24  Wait 2000
+2016-04-12 14:17:27  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" stopped
+2016-04-12 14:17:27  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" stopped
+2016-04-12 14:19:23  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:19:23  StartWeb "www.pricerunner.se"
+2016-04-12 14:19:23  WaitVerify "{ImageFolder}/1460463555023.png"
+2016-04-12 14:19:27  Verification ok, image: "images/1460463555023.png" found at: 343, 101
+2016-04-12 14:19:27  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:19:41  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:19:41  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 14:19:42  Write "stan smith[ENTER]"
+2016-04-12 14:19:42  Wait 2000
+2016-04-12 14:19:45  Click "{ImageFolder}/14604517998943.png" 50 48
+2016-04-12 14:20:13  Click failed, image not found in line: 4
+2016-04-12 14:20:13  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 14:20:41  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:20:41  Begin Settings
+2016-04-12 14:20:41  StopIfFailed No
+2016-04-12 14:20:41  End
+2016-04-12 14:20:41  Call jautomatetesttxt.txt
+2016-04-12 14:20:41  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:20:41  StartWeb "www.pricerunner.se"
+2016-04-12 14:20:41  WaitVerify "{ImageFolder}/1460463555023.png"
+2016-04-12 14:20:46  Verification ok, image: "images/1460463555023.png" found at: 343, 117
+2016-04-12 14:20:46  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:20:46  Call 2.txt
+2016-04-12 14:20:46  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:20:46  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 14:20:47  Write "stan smith[ENTER]"
+2016-04-12 14:20:47  Wait 2000
+2016-04-12 14:20:50  Click "{ImageFolder}/14604517998943.png" 193 88 68 22
+2016-04-12 14:20:52  Wait 2000
+2016-04-12 14:20:55  MouseScroll 4
+2016-04-12 14:20:55  Click "{ImageFolder}/1460452262314.png"
+2016-04-12 14:20:56  Wait 2000
+2016-04-12 14:20:59  Click "{ImageFolder}/14604517999275.png" 191 95 64 23
+2016-04-12 14:21:00  Wait 2000
+2016-04-12 14:21:03  MouseScroll 5
+2016-04-12 14:21:03  Click "{ImageFolder}/14604517999777.png" 171 80 43 18
+2016-04-12 14:21:05  Wait 2000
+2016-04-12 14:21:08  Click "{ImageFolder}/14604517999938.png" 194 92 55 22
+2016-04-12 14:21:09  Wait 2000
+2016-04-12 14:21:12  Click "{ImageFolder}/14604525090540.png" 159 102 81 15
+2016-04-12 14:21:13  Wait 1000
+2016-04-12 14:21:15  Click "{ImageFolder}/14604525091253.png" 181 94 28 13
+2016-04-12 14:21:16  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 14:21:16  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" completed
+2016-04-12 14:30:53  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:30:53  Begin PriceRunner
+2016-04-12 14:30:53  StopIfFailed No
+2016-04-12 14:30:53  End
+2016-04-12 14:30:53  Call jautomatetesttxt.txt
+2016-04-12 14:30:53  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:30:53  StartWeb "www.pricerunner.se"
+2016-04-12 14:30:53  WaitVerify "{ImageFolder}/1460463555023.png"
+2016-04-12 14:31:08  Verification failed, image not found in line: 3
+2016-04-12 14:31:08  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 14:31:09  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" stopped
+2016-04-12 14:31:16  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:31:16  Begin PriceRunner
+2016-04-12 14:31:16  StopIfFailed No
+2016-04-12 14:31:16  End
+2016-04-12 14:31:16  Call jautomatetesttxt.txt
+2016-04-12 14:31:16  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:31:16  StartWeb "www.pricerunner.se"
+2016-04-12 14:31:16  WaitVerify "{ImageFolder}/1460463555023.png"
+2016-04-12 14:31:30  Verification failed, image not found in line: 3
+2016-04-12 14:31:31  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 14:31:31  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" stopped
+2016-04-12 14:32:00  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:32:00  StopIfFailed No
+2016-04-12 14:32:00  End
+2016-04-12 14:32:00  Call jautomatetesttxt.txt
+2016-04-12 14:32:00  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:32:00  StartWeb "www.pricerunner.se"
+2016-04-12 14:32:00  WaitVerify "{ImageFolder}/1460463555023.png"
+2016-04-12 14:32:19  Verification failed, image not found in line: 3
+2016-04-12 14:32:20  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 14:32:20  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" stopped
+2016-04-12 14:32:35  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:32:35  Call jautomatetesttxt.txt
+2016-04-12 14:32:35  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:32:35  StartWeb "www.pricerunner.se"
+2016-04-12 14:32:35  WaitVerify "{ImageFolder}/1460463555023.png"
+2016-04-12 14:32:49  Verification failed, image not found in line: 3
+2016-04-12 14:32:49  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" failed
+2016-04-12 14:32:50  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" failed
+2016-04-12 14:33:13  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:33:13  StartWeb "www.pricerunner.se"
+2016-04-12 14:33:13  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:33:20  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:33:20  Call jautomatetesttxt.txt
+2016-04-12 14:33:20  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:33:20  StartWeb "www.pricerunner.se"
+2016-04-12 14:33:20  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:33:20  Call 2.txt
+2016-04-12 14:33:20  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:33:20  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 14:33:24  Write "stan smith[ENTER]"
+2016-04-12 14:33:24  Wait 2000
+2016-04-12 14:33:27  Click "{ImageFolder}/14604517998943.png" 193 88 68 22
+2016-04-12 14:33:58  Click failed, image not found in line: 4
+2016-04-12 14:34:05  Manual test "<b>Click</b> <br/><img src="manual_test_dialog.png"/>" failed in line: 4
+2016-04-12 14:34:05  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 14:34:06  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" failed
+2016-04-12 14:35:22  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:35:22  Begin PriceRunner
+2016-04-12 14:35:22  Call jautomatetesttxt.txt
+2016-04-12 14:35:22  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:35:22  StartWeb "www.pricerunner.se"
+2016-04-12 14:35:22  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:35:22  Call 2.txt
+2016-04-12 14:35:22  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:35:22  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 14:35:24  Write "stan smith[ENTER]"
+2016-04-12 14:35:25  Wait 2000
+2016-04-12 14:35:28  Click "{ImageFolder}/14604517998943.png" 193 88 68 22
+2016-04-12 14:35:30  Click failed, image not found in line: 4
+2016-04-12 14:35:31  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 14:35:31  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" stopped
+2016-04-12 14:40:44  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:40:44  Begin PriceRunner
+2016-04-12 14:40:44  StopIfFailed No
+2016-04-12 14:40:44  End
+2016-04-12 14:40:44  Call jautomatetesttxt.txt
+2016-04-12 14:40:44  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:40:44  StartWeb "www.pricerunner.se"
+2016-04-12 14:40:44  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:40:44  Call 2.txt
+2016-04-12 14:40:44  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:40:44  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 14:40:47  Write "stan smith[ENTER]"
+2016-04-12 14:40:48  Wait 2000
+2016-04-12 14:40:51  Click "{ImageFolder}/14604517998943.png" 193 88 68 22
+2016-04-12 14:40:52  Wait 2000
+2016-04-12 14:40:55  MouseScroll 4
+2016-04-12 14:40:55  Click "{ImageFolder}/1460452262314.png"
+2016-04-12 14:40:56  Wait 2000
+2016-04-12 14:40:59  Click "{ImageFolder}/14604517999275.png" 191 95 64 23
+2016-04-12 14:41:01  Wait 2000
+2016-04-12 14:41:04  MouseScroll 5
+2016-04-12 14:41:04  Click "{ImageFolder}/14604517999777.png" 171 80 43 18
+2016-04-12 14:41:05  Wait 2000
+2016-04-12 14:41:08  Click "{ImageFolder}/14604517999938.png" 194 92 55 22
+2016-04-12 14:41:38  Click failed, image not found in line: 14
+2016-04-12 14:41:44  Manual test "<b>Click</b> <br/><img src="manual_test_dialog.png"/>" failed in line: 14
+2016-04-12 14:41:45  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 14:41:45  Timestamp
+2016-04-12 14:41:45  Timestamp = "2016-04-12 14:41:45"
+2016-04-12 14:41:45  Set Date "{Timestamp}"
+2016-04-12 14:41:45  Date = "2016-04-12 14:41:45"
+2016-04-12 14:41:45  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" completed
+2016-04-12 14:42:00  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:42:00  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 14:42:08  Click failed, image not found in line: 1
+2016-04-12 14:42:08  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" failed
+2016-04-12 14:42:19  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:42:19  Begin PriceRunner
+2016-04-12 14:42:20  StopIfFailed No
+2016-04-12 14:42:20  End
+2016-04-12 14:42:20  Call jautomatetesttxt.txt
+2016-04-12 14:42:20  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:42:20  StartWeb "www.pricerunner.se"
+2016-04-12 14:42:20  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:42:20  Call 2.txt
+2016-04-12 14:42:20  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:42:20  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 14:42:23  Write "stan smith[ENTER]"
+2016-04-12 14:42:24  Wait 2000
+2016-04-12 14:42:27  Click "{ImageFolder}/14604517998943.png" 193 88 68 22
+2016-04-12 14:42:28  Wait 2000
+2016-04-12 14:42:31  MouseScroll 4
+2016-04-12 14:42:31  Click "{ImageFolder}/1460452262314.png"
+2016-04-12 14:42:32  Wait 2000
+2016-04-12 14:42:35  Click "{ImageFolder}/14604517999275.png" 191 95 64 23
+2016-04-12 14:42:36  Wait 2000
+2016-04-12 14:42:39  MouseScroll 5
+2016-04-12 14:42:39  Click "{ImageFolder}/14604517999777.png" 171 80 43 18
+2016-04-12 14:42:41  Wait 2000
+2016-04-12 14:42:44  Click "{ImageFolder}/14604517999938.png" 52 52
+2016-04-12 14:42:45  Wait 2000
+2016-04-12 14:42:48  Click "{ImageFolder}/14604525090540.png" 159 102 81 15
+2016-04-12 14:42:50  Wait 1000
+2016-04-12 14:42:52  Click "{ImageFolder}/14604525091253.png" 181 94 28 13
+2016-04-12 14:42:53  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 14:42:53  Timestamp
+2016-04-12 14:42:53  Timestamp = "2016-04-12 14:42:53"
+2016-04-12 14:42:53  Set Date "{Timestamp}"
+2016-04-12 14:42:53  Date = "2016-04-12 14:42:53"
+2016-04-12 14:42:53  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" completed
+2016-04-12 14:51:02  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:51:02  Begin PriceRunner
+2016-04-12 14:51:02  StopIfFailed No
+2016-04-12 14:51:02  End
+2016-04-12 14:51:02  Call jautomatetesttxt.txt
+2016-04-12 14:51:02  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:51:02  StartWeb "www.pricerunner.se"
+2016-04-12 14:51:02  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:51:02  Call 2.txt
+2016-04-12 14:51:02  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:51:02  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 14:51:04  Write "stan smith[ENTER]"
+2016-04-12 14:51:05  Wait 2000
+2016-04-12 14:51:08  Click "{ImageFolder}/14604517998943.png" 193 88 68 22
+2016-04-12 14:51:09  Wait 2000
+2016-04-12 14:51:12  MouseScroll 4
+2016-04-12 14:51:12  Click "{ImageFolder}/1460452262314.png"
+2016-04-12 14:51:14  Wait 2000
+2016-04-12 14:51:17  Click "{ImageFolder}/14604517999275.png" 191 95 64 23
+2016-04-12 14:51:18  Wait 2000
+2016-04-12 14:51:21  MouseScroll 5
+2016-04-12 14:51:21  Click "{ImageFolder}/14604517999777.png" 171 80 43 18
+2016-04-12 14:51:22  Wait 2000
+2016-04-12 14:51:25  Click "{ImageFolder}/14604517999938.png" 52 52
+2016-04-12 14:51:27  Wait 2000
+2016-04-12 14:51:30  Click "{ImageFolder}/14604525090540.png" 159 102 81 15
+2016-04-12 14:51:31  Wait 1000
+2016-04-12 14:51:33  Click "{ImageFolder}/14604525091253.png" 181 94 28 13
+2016-04-12 14:51:35  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 14:51:35  Timestamp
+2016-04-12 14:51:35  Timestamp = "2016-04-12 14:51:35"
+2016-04-12 14:51:35  Set Date "{Timestamp}"
+2016-04-12 14:51:35  Date = "2016-04-12 14:51:35"
+2016-04-12 14:51:35  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" completed
+2016-04-12 14:57:36  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" started
+2016-04-12 14:57:36  Begin PriceRunner
+2016-04-12 14:57:36  StopIfFailed No
+2016-04-12 14:57:36  End
+2016-04-12 14:57:36  Call jautomatetesttxt.txt
+2016-04-12 14:57:36  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" started
+2016-04-12 14:57:36  StartWeb "www.pricerunner.se"
+2016-04-12 14:57:36  Script "C:\Users\Bawar\Desktop\jAutomate Data\jautomatetesttxt.txt" completed
+2016-04-12 14:57:36  Call 2.txt
+2016-04-12 14:57:36  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" started
+2016-04-12 14:57:36  Click "{ImageFolder}/14604517998572.png"
+2016-04-12 14:57:40  Write "stan smith[ENTER]"
+2016-04-12 14:57:41  Wait 2000
+2016-04-12 14:57:44  Click "{ImageFolder}/14604517998943.png" 193 88 68 22
+2016-04-12 14:57:45  Wait 2000
+2016-04-12 14:57:48  MouseScroll 4
+2016-04-12 14:57:48  Click "{ImageFolder}/1460452262314.png"
+2016-04-12 14:57:49  Wait 2000
+2016-04-12 14:57:52  Click "{ImageFolder}/14604517999275.png" 191 95 64 23
+2016-04-12 14:57:53  Wait 2000
+2016-04-12 14:57:56  MouseScroll 5
+2016-04-12 14:57:56  Click "{ImageFolder}/14604517999777.png" 171 80 43 18
+2016-04-12 14:57:58  Wait 2000
+2016-04-12 14:58:01  Click "{ImageFolder}/14604517999938.png" 52 52
+2016-04-12 14:58:03  Wait 2000
+2016-04-12 14:58:06  Click "{ImageFolder}/14604525090540.png" 159 102 81 15
+2016-04-12 14:58:07  Wait 1000
+2016-04-12 14:58:09  Click "{ImageFolder}/14604525091253.png" 181 94 28 13
+2016-04-12 14:58:10  Script "C:\Users\Bawar\Desktop\jAutomate Data\2.txt" completed
+2016-04-12 14:58:11  Timestamp
+2016-04-12 14:58:11  Timestamp = "2016-04-12 14:58:11"
+2016-04-12 14:58:11  Set Date "{Timestamp}"
+2016-04-12 14:58:11  Date = "2016-04-12 14:58:11"
+2016-04-12 14:58:11  Log "C:\Users\Bawar\Desktop\jAutomate Data\scripts\PRlog.csv" , "Pricerunner har körts", "{Date}"
+2016-04-12 14:58:11  Script "C:\Users\Bawar\Desktop\jAutomate Data\main.txt" completed

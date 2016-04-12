@@ -1,0 +1,155 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Settings</title>
+<script type="text/javascript">
+function toLocalDate(date)
+{
+	if(date.length==10)
+		return date.substr(8,2)+"/"+date.substr(5,2)+"/"+date.substr(0,4);
+	else
+		return "";
+}
+
+function toLocalTime(time)
+{
+	return time;
+}
+function isNumberKey(evt)
+{
+    var charCode = (evt.which) ? evt.which : evt.keyCode
+    return !(charCode > 31 && (charCode < 48 || charCode > 57));
+}
+</script>
+<style type="text/css">
+h2
+{
+    color: black;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 14pt;
+    font-weight: bold;
+    margin: 4px 0px 8px 0px;
+}
+h3
+{
+    color: black;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 12pt;
+    font-weight: bold;
+    margin: 4px 0px 8px 0px;
+}
+a
+{
+    color: black;
+}
+a.nodecoration
+{
+    color: black;
+	text-decoration: none;
+}
+pre
+{
+    color: black;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+    font-size: 12pt;
+    margin: 0px;
+}
+table
+{
+    color: black;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #1F1F1F;
+	border-collapse: collapse;
+	background-color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+	font-size: 12pt;
+	margin: 0px;
+}
+table.nonvisible
+{
+    color: black;
+	border: none;
+	background-color: white;
+	font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana";
+	font-size: 12pt;
+	margin: 0px;
+}
+th
+{
+	padding: 10px;
+	border-width: 1px 0px;
+	border-style: solid;
+	border-color: #1F1F1F;
+	text-align: left;
+	font-weight: bold;
+	background-color: #69C1F1;
+}
+td
+{
+	padding: 10px;
+}
+td.red
+{
+	background-color: #FF5045;
+}
+td.yellow
+{
+	background-color: #ffff55;
+}
+td.green
+{
+	background-color: #79FF79;
+}
+div.titlebar
+{
+	padding: 5px;
+}
+img
+{
+	vertical-align: middle;
+	margin: 0px 5px 0px 5px;
+    -webkit-border-radius: 5px;
+	box-shadow: 1px 1px 3px #1F1F1F;
+}
+img.titlebar
+{
+    -webkit-border-radius: 0;
+	box-shadow: none;
+	float: left;
+}
+div.relative
+{
+	position: relative; left: 0; top: 0;
+}
+.imgz1 { position:relative; top: 0px; left: 0px; z-index: 1; }
+.imgz3 { position:absolute; top: 0px; left: 0px; z-index: 3; }
+.button { font-weight: bold; color: white; background-color: #157EFB; padding: 5px 20px 5px 20px; }
+.button:hover { font-weight: bold; color: white; background-color: #1268CC; padding: 5px 20px 5px 20px; }
+.redbutton { font-weight: bold; color: white; background-color: #B51B44; padding: 5px 20px 5px 20px; }
+.redbutton:hover { font-weight: bold; color: white; background-color: #A02B48; padding: 5px 20px 5px 20px; }
+.menubutton { font-weight: bold; color: white; background-color: #157EFB; padding: 6px 20px 6px 20px;; float: right; font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana"; font-size: 14pt; font-weight: bold; }
+.menubutton:hover { font-weight: bold; color: white; background-color: #1268CC; padding: 6px 20px 6px 20px;; float: right; font-family: "calibri", "lucida grande", "Segoe UI", "arial", "verdana"; font-size: 14pt; font-weight: bold; }
+.full-width
+{
+	width: 100%;
+	background-color: #69C1F1;
+}
+</style>
+</head>
+<body>
+	<div class="full-width"><div class="titlebar"><a href="dashboard"><div class="menubutton">Dashboard</div></a><img class="titlebar" src="icons/gear32.png"/><h2>Settings</h2></div></div><br>
+	<h3>Lock Screen Password (blank to disable):</h3>
+	<table>
+		ID_LOCK_SETTINGS_ROW
+	</table>
+	<br><h3>License:</h3>
+	<table>
+		ID_LICENSE_SETTINGS_ROW
+	</table>
+	<br><h3>Remote Window Password (blank to disable):</h3>
+	<table>
+		ID_REMOTE_WINDOW_SETTINGS_ROW
+	</table>
+</body>
+</html>

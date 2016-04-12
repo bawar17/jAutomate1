@@ -1,0 +1,2 @@
+VerifyExpression "{name}!=Paul"
+Wait 500

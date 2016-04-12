@@ -1,0 +1,10 @@
+Set "Text" "X"
+While "{Text}!=XXXXX"
+	Set "Text" "{Text}X"
+EndWhile
+Verify "{Text}=XXXXX"
+Set "Text" "X"
+WhileNot "{Text}=XXXXX"
+	Set "Text" "{Text}X"
+EndWhile
+VerifyNot "{Text}!=XXXXX"
